@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Brawl Stars Catalog</title>
+        <link rel="stylesheet" href="style/style.css"/>
+        <link rel="icon" href="style/catalog.ico"/>
+        <script src="data/brawlers.js"></script>
+        <script src="data/rarities.js"></script>
+        <script src="data/themes.js"></script>
+        <script src="data/skins.js"></script>
+        <meta name="description" content="Brawl Stars skins manager: find all the skins in the Supercell game and add them to your possession or purchase lists."/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/>
+    </head>
+
+    <body>
+
+        <h1>Brawl Stars Catalog</h1>
+
+        <div id="controlData">
+            <input type="file" accept=".json" id="inptLoadFile">
+            <button id="btnLoadFile">Load my data</button>
+            <button id="btnSaveData">Save my data</button>
+        </div>
+
+        <div id="legend">
+            <table>
+                <caption>Skin Prices</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Rarity</th>
+                        <th scope="col">Price</th>
+                    </tr>
+                </thead>
+                <tbody id="skin-prices">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="controlDisplay">
+            <select name="view" id="view">
+                <option value="all">👥 All skins</option>
+                <option value="possession">✔️ My skins</option>
+                <option value="purchase">🛒 My purchase list</option>
+                <option value="favorites">⭐ My favorites</option>
+            </select>
+            <select name="sort" id="sort">
+                <option value="brawler">Group by brawler</option>
+                <option value="theme">Group by theme</option>
+                <option value="rarity">Group by rarity</option>
+            </select>
+            <p title="skins displayed">- - - ‎ ‎ <span id="total">450</span> skins ‎ ‎ - - -</p>
+        </div>
+
+        <div id="brawlers-sort">
+
+        </div>
+
+        <div id="themes-sort">
+
+        </div>
+
+        <div id="rarities-sort">
+
+        </div>
+
+        <script src="script/script.js"></script>
+
+    </body>
+
+</html>

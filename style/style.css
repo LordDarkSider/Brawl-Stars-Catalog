@@ -1,0 +1,166 @@
+@font-face {
+    font-family: "Nougat";
+    src: local("style/Nougat-ExtraBlack.ttf");
+}
+
+@font-face {
+    font-family: "Lilita One";
+    src: local("style/LilitaOne-Regular.ttf");
+}
+
+body{
+    background: linear-gradient(90deg, #330a66, #25034f);
+    font-family: "sans-serif";
+    text-align: center;
+    color: #ffffff;
+}
+
+div{
+    margin: 20px;
+}
+
+h1{
+    font-family: "Nougat";
+    color: #ffbd25;
+}
+
+h2{
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: "Lilita One";
+    color: #ffffff;
+    margin: 0;
+}
+
+#btnLoadFile, #btnSaveData {
+    margin: 1em;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6), inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+#btnLoadFile{background-color: darkred;}
+#btnLoadFile:hover {background-color: red;}
+#btnSaveData{background-color: darkgreen;}
+#btnSaveData:hover {background-color: green;}
+
+#inptLoadFile{
+    display: none;
+}
+
+.small-icon{
+    width: 20px;
+    vertical-align: middle;
+}
+
+.large-icon{
+    width: 60px;
+    vertical-align: middle;
+}
+
+#legend table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    letter-spacing: 1px;
+    margin: auto;
+}
+
+#legend caption {
+    padding: 5px;
+    font-family: "Lilita One";
+    font-size: 1.2rem;
+}
+
+#legend thead {
+    background-color: rgb(44, 44, 44);
+    font-family: "Lilita One";
+}
+
+#legend tbody {
+    background-color: rgb(57, 57, 57);
+}
+
+#legend th, #legend td {
+    border: 2px solid rgb(160 160 160);
+    padding: 8px 10px;
+    font-weight: normal;
+}
+
+#legend td {
+    font-weight: bold;
+}
+
+#view, #sort {
+    margin-top: 1em;
+    margin-inline: 1em;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 2.5px;
+}
+#view{background-color: darkred;}
+#sort{background-color: darkgreen;}
+
+#controlDisplay p {
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-family: "Lilita One";
+    color: #ffffff;
+}
+
+fieldset{
+    width: 80%;
+    margin: 60px auto;
+    border-style: solid;
+    border-width: 7.5px;
+    border-radius: 10px;
+    border-color: #ffffff;
+}
+
+fieldset legend {
+    text-align: left;
+    font-family: "Lilita One";
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.field-Bstarting{border-color: #8a8a8a;}
+.field-Brare{border-color: #00ff00;}
+.field-Bsuper-rare{border-color: #0000cc;}
+.field-Bepic{border-color: #7f00ff;}
+.field-Bmythic{border-color: #ff0000;}
+.field-Blegendary{border-color: #ff8000;}
+
+.skin{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    margin: 20px;
+}
+
+.skin div{
+    display: block;
+    margin: 3px;
+}
+
+.skin img{
+    width: 150px;
+    height: 250px;
+    object-fit: contain;
+    padding: 10px;
+    background-color: #ffffff;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #8a8a8a;
+}
+
+.skin input{
+    vertical-align: middle;
+}
+
+.skin label{
+    margin-right: 15px;
+}

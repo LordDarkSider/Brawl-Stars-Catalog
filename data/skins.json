@@ -55,6 +55,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/ff/Shelly_Skin-PSG.png"
     },
 	
+    "Sheriff Shelly": {
+        "brawler": "Shelly",
+        "rarity": "Super Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Shelly_Skin-Sheriff.png"
+    },
+	
     "Princess Shelly": {
         "brawler": "Shelly",
         "rarity": "Super Rare",
@@ -88,6 +95,13 @@
         "rarity": "Epic",
         "theme": "Sands of Time",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Shelly_Skin-Shelly_Dancer_Dahlia.png"
+    },
+	
+    "Stellar Shelly": {
+        "brawler": "Shelly",
+        "rarity": "Epic",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/93/Shelly_Skin-Stellar.png"
     },
 	
     "Hoot Hoot Shelly": {
@@ -438,6 +452,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/62/Bull_Skin-Alleycat.png"
     },
 
+    "Minotaur Bull": {
+        "brawler": "Bull",
+        "rarity": "Mythic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/19/Bull_Skin-Minotaur.png"
+    },
+
     "True Silver Bull": {
         "brawler": "Bull",
         "rarity": "True Silver",
@@ -475,6 +496,13 @@
         "rarity": "Super Rare",
         "theme": "Anniversary",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9b/Brock_Skin-Old_School.png"
+    },
+
+    "Deputy Brock": {
+        "brawler": "Brock",
+        "rarity": "Super Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1c/Brock_Skin-Deputy.png"
     },
 
     "Beach Brock": {
@@ -786,6 +814,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8c/Barley_Skin-Sway_Master.png"
     },
 
+    "Buccaneer Barley": {
+        "brawler": "Barley",
+        "rarity": "Epic",
+        "theme": "Tales of the Sea",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Barley_Skin-Buccaneer.png"
+    },
+
     "True Silver Barley": {
         "brawler": "Barley",
         "rarity": "True Silver",
@@ -1054,6 +1089,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b0/Dynamike_Skin-Bellhop_Mike.png"
     },
 
+    "Boomer Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "Super Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Dynamike_Skin-Boomer.png"
+    },
+
     "Classic Dynamike": {
         "brawler": "Dynamike",
         "rarity": "Epic",
@@ -1290,6 +1332,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/49/Rico_Skin-Ricochet.png"
     },
 
+    "Reloaded Ricochet": {
+        "brawler": "Rico",
+        "rarity": "Super Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/49/Rico_Skin-Ricochet.png"
+    },
+
     "Firefly Rico": {
         "brawler": "Rico",
         "rarity": "Super Rare",
@@ -1328,8 +1377,29 @@
     "Final Boss Rico": {
         "brawler": "Rico",
         "rarity": "Epic",
-        "theme": "Ranked",
+        "theme": "Cartoon Studios",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Rico_Skin-Final_Boss.png"
+    },
+
+    "Sovereign Rico": {
+        "brawler": "Rico",
+        "rarity": "Hypercharge",
+        "theme": "Royals",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9e/Rico_Skin-Sovereign.png"
+    },
+
+    "Sovereign Gem Rico": {
+        "brawler": "Rico",
+        "rarity": "Hypercharge",
+        "theme": "Royals",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f1/Rico_Skin-Sovereign_Gem.png"
+    },
+
+    "Sovereign Bling Rico": {
+        "brawler": "Rico",
+        "rarity": "Hypercharge",
+        "theme": "Royals",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6c/Rico_Skin-Sovereign_Bling.png"
     },
 
     "True Silver Rico": {
@@ -1600,6 +1670,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/50/Jacky_Skin-Gift_Express.png"
     },
 
+    "Cuttlefish Jacky": {
+        "brawler": "Jacky",
+        "rarity": "Super Rare",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c7/Jacky_Skin-Cuttlefish.png"
+    },
+
     "Ultra Driller Jacky": {
         "brawler": "Jacky",
         "rarity": "Epic",
@@ -1822,6 +1899,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Emz_Skin-DJ_3.M.Z.png"
     },
     
+	"Medusa Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Emz_Skin-Medusa.png"
+    },
+    
+	"Ruby Medusa Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/23/Emz_Skin-Ruby_Medusa.png"
+    },
+    
+	"Sapphire Medusa Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Emz_Skin-Sapphire_Medusa.png"
+    },
+    
 	"True Silver Emz": {
         "brawler": "Emz",
         "rarity": "True Silver",
@@ -1954,6 +2052,13 @@
         "rarity": "Epic",
         "theme": "Brawlnaval",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Piper_Skin-Flag_Bearer.png"
+    },
+
+    "Athena Piper": {
+        "brawler": "Piper",
+        "rarity": "Mythic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d4/Piper_Skin-Athena.png"
     },
 
     "True Silver Piper": {
@@ -2556,6 +2661,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/eb/Gale_Skin-Squeakbuster.png"
     },
 
+    "Shell Blaster Gale": {
+        "brawler": "Gale",
+        "rarity": "Epic",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Gale_Skin-Shell_Blaster.png"
+    },
+
     "Merchant Gale": {
         "brawler": "Gale",
         "rarity": "Epic",
@@ -3090,6 +3202,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7b/Angelo_Skin-Elf.png"
     },
 
+    "Dionysus Angelo": {
+        "brawler": "Angelo",
+        "rarity": "Super Rare",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Angelo_Skin-Dionysus.png"
+    },
+
     "True Silver Angelo": {
         "brawler": "Angelo",
         "rarity": "True Silver",
@@ -3113,6 +3232,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Berry_Skin-Default.png"
+    },
+
+    "Dark Horse Berry": {
+        "brawler": "Berry",
+        "rarity": "Rare",
+        "theme": "Starrs of Brawlywood",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Berry_Skin-Dark_Horse.png"
     },
 	
 	
@@ -3436,6 +3562,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Mr._P_Skin-Daruma.png"
     },
 
+    "Mr. Dragonfruit": {
+        "brawler": "Mr. P",
+        "rarity": "Epic",
+        "theme": "Biodome",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Mr._P_Skin-Mr._Dragonfruit.png"
+    },
+
     "True Silver Mr. P": {
         "brawler": "Mr. P",
         "rarity": "True Silver",
@@ -3494,6 +3627,13 @@
         "rarity": "Epic",
         "theme": "Lunar Stories",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Sprout_Skin-Lunar.png"
+    },
+
+    "Aquamarine Sprout": {
+        "brawler": "Sprout",
+        "rarity": "Epic",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/89/Sprout_Skin-Aquamarine.png"
     },
 
     "True Silver Sprout": {
@@ -3715,6 +3855,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e7/Ruffs_Skin-Ruffs_Chimmy.png"
     },
 
+    "Seadog Ruffs": {
+        "brawler": "Ruffs",
+        "rarity": "Epic",
+        "theme": "Tales of the Sea",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Ruffs_Skin-Seadog.png"
+    },
+
     "Ronin Ruffs": {
         "brawler": "Ruffs",
         "rarity": "Epic",
@@ -3933,7 +4080,7 @@
     "Mothra Eve": {
         "brawler": "Eve",
         "rarity": "Epic",
-        "theme": "Ranked",
+        "theme": "Godzilla",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/ce/Eve_Skin-Mothra.png"
     },
 
@@ -4174,6 +4321,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ad/R-T_Skin-Crimson.png"
     },
 
+    "Poseidon R-T": {
+        "brawler": "R-T",
+        "rarity": "Mythic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/df/R-T_Skin-Poseidon.png"
+    },
+
     "True Silver R-T": {
         "brawler": "R-T",
         "rarity": "True Silver",
@@ -4243,6 +4397,13 @@
         "rarity": "Rare",
         "theme": "Once Upon",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Doug_Skin-Draco.png"
+    },
+
+    "Man-o-war Doug": {
+        "brawler": "Doug",
+        "rarity": "Epic",
+        "theme": "Tales of the Sea",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Doug_Skin-Man-o-war.png"
     },
 
     "True Silver Doug": {
@@ -4408,6 +4569,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/61/Melodie_Skin-Sif.png"
     },
 
+    "Harpy Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9c/Melodie_Skin-Harpy.png"
+    },
+
     "True Silver Melodie": {
         "brawler": "Melodie",
         "rarity": "True Silver",
@@ -4462,7 +4630,14 @@
         "brawler": "Clancy",
         "rarity": "Default",
         "theme": "",
-		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Clancy_Skin-Default.png/revision/latest?cb=20240623154724"
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Clancy_Skin-Default.png"
+    },
+
+    "High Stakes Clancy": {
+        "brawler": "Clancy",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b0/Clancy_Skin-High_Stakes.png"
     },
 	
 	
@@ -4761,6 +4936,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Sandy_Skin-Nightmare.png"
     },
 
+    "Jellyfish Sandy": {
+        "brawler": "Sandy",
+        "rarity": "Epic",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/02/Sandy_Skin-Jellyfish.png"
+    },
+
+    "Neon Jellyfish Sandy": {
+        "brawler": "Sandy",
+        "rarity": "Epic",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/80/Sandy_Skin-Neon_Jellyfish.png"
+    },
+
+    "Glowing Jellyfish Sandy": {
+        "brawler": "Sandy",
+        "rarity": "Epic",
+        "theme": "Deep Sea League",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/36/Sandy_Skin-Glowing_Jellyfish.png"
+    },
+
     "True Silver Sandy": {
         "brawler": "Sandy",
         "rarity": "True Silver",
@@ -4791,6 +4987,13 @@
         "rarity": "Epic",
         "theme": "Outlaws",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d1/Amber_Skin-Amber_de_la_Vega.png"
+    },
+
+    "Bubble Trouble Amber": {
+        "brawler": "Amber",
+        "rarity": "Epic",
+        "theme": "Summer of Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Amber_Skin-Bubble_Trouble.png"
     },
 
     "Frost Queen Amber": {
@@ -5102,6 +5305,20 @@
         "rarity": "Rare",
         "theme": "Once Upon",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Draco_Skin-Dark_Knight.png"
+    },
+
+    "True Silver Draco": {
+        "brawler": "Draco",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Draco_Skin-True_Silver.png"
+    },
+
+    "True Gold Draco": {
+        "brawler": "Draco",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ab/Draco_Skin-True_Gold.png"
     }
 	
 }

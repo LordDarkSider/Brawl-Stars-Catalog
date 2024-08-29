@@ -182,7 +182,7 @@ let skins = new Map([
     ["True Gold 8-Bit", new Map([ ["brawler","8-Bit"], ["rarity","True Gold"], ["theme",""], ["img","https://static.wikia.nocookie.net/brawlstars/images/f/f2/8-Bit_Skin-True_Gold.png"], ])],
     ["Default Rico", new Map([ ["brawler","Rico"], ["rarity","Default"], ["theme",""], ["img","https://static.wikia.nocookie.net/brawlstars/images/7/71/Rico_Skin-Default.png"], ])],
     ["Ricochet", new Map([ ["brawler","Rico"], ["rarity","Super Rare"], ["theme","Anniversary"], ["img","https://static.wikia.nocookie.net/brawlstars/images/4/49/Rico_Skin-Ricochet.png"], ])],
-    ["Reloaded Ricochet", new Map([ ["brawler","Rico"], ["rarity","Super Rare"], ["theme","Outlaws"], ["img","https://static.wikia.nocookie.net/brawlstars/images/4/49/Rico_Skin-Ricochet.png"], ])],
+    ["Reloaded Ricochet", new Map([ ["brawler","Rico"], ["rarity","Super Rare"], ["theme","Outlaws"], ["img","https://static.wikia.nocookie.net/brawlstars/images/6/68/Rico_Skin-Reloaded_Ricochet.png"], ])],
     ["Firefly Rico", new Map([ ["brawler","Rico"], ["rarity","Super Rare"], ["theme","Biodome"], ["img","https://static.wikia.nocookie.net/brawlstars/images/4/4b/Rico_Skin-Firefly.png"], ])],
     ["Loaded Rico", new Map([ ["brawler","Rico"], ["rarity","Epic"], ["theme","Royals"], ["img","https://static.wikia.nocookie.net/brawlstars/images/a/a7/Rico_Skin-Loaded.png"], ])],
     ["Popcorn Rico", new Map([ ["brawler","Rico"], ["rarity","Epic"], ["theme","Starrs of Brawlywood"], ["img","https://static.wikia.nocookie.net/brawlstars/images/e/e9/Rico_Skin-Popcorn.png"], ])],

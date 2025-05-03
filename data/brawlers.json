@@ -1,0 +1,411 @@
+{
+    "Shelly": {
+        "rarity": "starting",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/e/e5/Shelly_Portrait.png"
+    },
+
+    "Nita": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/9f/Nita_Portrait.png"
+    },
+
+    "Colt": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Colt_Portrait.png"
+    },
+
+    "Bull": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/4a/Bull_Portrait.png"
+    },
+
+    "Brock": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f9/Brock_Portrait.png"
+    },
+
+    "El Primo": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c5/El_Primo_Portrait.png"
+    },
+
+    "Barley": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/a1/Barley_Portrait.png"
+    },
+
+    "Poco": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/59/Poco_Portrait.png"
+    },
+
+    "Rosa": {
+        "rarity": "rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/94/Rosa_Portrait.png"
+    },
+
+    "Jessie": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/4e/Jessie_Portrait.png"
+    },
+
+    "Dynamike": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Dynamike_Portrait.png"
+    },
+
+    "Tick": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/72/Tick_Portrait.png"
+    },
+
+    "8-Bit": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/0b/8-Bit_Portrait.png"
+    },
+
+    "Rico": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Rico_Portrait.png"
+    },
+
+    "Darryl": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/46/Darryl_Portrait.png"
+    },
+
+    "Penny": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/8d/Penny_Portrait.png"
+    },
+
+    "Carl": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/1/19/Carl_Portrait.png"
+    },
+
+    "Jacky": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/03/Jacky_Portrait.png"
+    },
+
+    "Gus": {
+        "rarity": "super-rare",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/2/2c/Gus_Portrait.png"
+    },
+
+    "Bo": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/3/30/Bo_Portrait.png"
+    },
+
+    "Emz": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Emz_Portrait.png"
+    },
+
+    "Stu": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Stu_Portrait.png"
+    },
+
+    "Piper": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Piper_Portrait.png"
+    },
+
+    "Pam": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/d/dc/Pam_Portrait.png"
+    },
+
+    "Frank": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Frank_Portrait.png"
+    },
+
+    "Bibi": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c2/Bibi_Portrait.png"
+    },
+
+    "Bea": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/ae/Bea_Portrait.png"
+    },
+
+    "Nani": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c0/Nani_Portrait.png"
+    },
+
+    "Edgar": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b4/Edgar_Portrait.png"
+    },
+
+    "Griff": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Griff_Portrait.png"
+    },
+
+    "Grom": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f5/Grom_Portrait.png"
+    },
+
+    "Bonnie": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Bonnie_Portrait.png"
+    },
+
+    "Gale": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/3/3f/Gale_Portrait.png"
+    },
+
+    "Colette": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Colette_Portrait.png"
+    },
+
+    "Belle": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/82/Belle_Portrait.png"
+    },
+
+    "Ash": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/92/Ash_Portrait.png"
+    },
+
+    "Lola": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/9f/Lola_Portrait.png"
+    },
+
+    "Sam": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/fc/Sam_Portrait.png"
+    },
+
+    "Mandy": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/75/Mandy_Portrait.png"
+    },
+
+    "Maisie": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/a1/Maisie_Portrait.png"
+    },
+
+    "Hank": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/2/29/Hank_Portrait.png"
+    },
+
+    "Pearl": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/05/Pearl_Portrait.png"
+    },
+
+    "Larry & Lawrie": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/3/3a/Larry_%26_Lawrie_Portrait.png"
+    },
+
+    "Angelo": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/8b/Angelo_Portrait.png"
+    },
+
+    "Berry": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Berry_Portrait.png"
+    },
+
+    "Mortis": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b4/Mortis_Portrait.png"
+    },
+
+    "Tara": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/49/Tara_Portrait.png"
+    },
+
+    "Gene": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/7c/Gene_Portrait.png"
+    },
+
+    "Max": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/83/Max_Portrait.png"
+    },
+
+    "Mr. P": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Mr._P_Portrait.png"
+    },
+
+    "Sprout": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Sprout_Portrait.png"
+    },
+
+    "Byron": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Byron_Portrait.png"
+    },
+
+    "Squeak": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/04/Squeak_Portrait.png"
+    },
+
+    "Lou": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/0b/Lou_Portrait.png"
+    },
+
+    "Ruffs": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/6/69/Ruffs_Portrait.png"
+    },
+
+    "Buzz": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/2/2c/Buzz_Portrait.png"
+    },
+
+    "Fang": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Fang_Portrait.png"
+    },
+
+    "Eve": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/8c/Eve_Portrait.png"
+    },
+
+    "Janet": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/8b/Janet_Portrait.png"
+    },
+
+    "Otis": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/58/Otis_Portrait.png"
+    },
+
+    "Buster": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/ad/Buster_Portrait.png"
+    },
+
+    "Gray": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c6/Gray_Portrait.png"
+    },
+
+    "R-T": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/R-T_Portrait.png"
+    },
+
+    "Willow": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/fb/Willow_Portrait.png"
+    },
+
+    "Doug": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/5a/Doug_Portrait.png"
+    },
+
+    "Chuck": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Chuck_Portrait.png"
+    },
+
+    "Charlie": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/4c/Charlie_Portrait.png"
+    },
+
+    "Mico": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Mico_Portrait.png"
+    },
+
+    "Melodie": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/1/1c/Melodie_Portrait.png"
+    },
+
+    "Lily": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/8/8d/Lily_Portrait.png"
+    },
+
+    "Clancy": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Clancy_Portrait.png"
+    },
+
+    "Spike": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/2/22/Spike_Portrait.png"
+    },
+
+    "Crow": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/6/6f/Crow_Portrait.png"
+    },
+
+    "Leon": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Leon_Portrait.png"
+    },
+
+    "Sandy": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Sandy_Portrait.png"
+    },
+
+    "Amber": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/96/Amber_Portrait.png"
+    },
+
+    "Meg": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/58/Meg_Portrait.png"
+    },
+
+    "Surge": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Surge_Portrait.png"
+    },
+
+    "Chester": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/3/38/Chester_Portrait.png"
+    },
+
+    "Cordelius": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/aa/Cordelius_Portrait.png"
+    },
+
+    "Kit": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/72/Kit_Portrait.png"
+    },
+
+    "Draco": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c2/Draco_Portrait.png"
+    }
+}

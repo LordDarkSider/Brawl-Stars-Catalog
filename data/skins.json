@@ -9,7 +9,7 @@
     "Star Shelly": {
         "brawler": "Shelly",
         "rarity": "",
-        "theme": "Brawl Stars Pioneer",
+        "theme": "Anniversary",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/de/Shelly_Skin-Star.png"
     },
 	
@@ -171,11 +171,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Nita_Skin-Gummybear.png"
     },
 	
+	"Runner Nita": {
+        "brawler": "Nita",
+        "rarity": "Super Rare",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Nita_Skin-Runner.png"
+    },
+	
 	"Red Nose Nita": {
         "brawler": "Nita",
         "rarity": "Epic",
         "theme": "Brawlidays",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Nita_Skin-Red_Nose.png"
+    },
+	
+	"Reinbear Nita": {
+        "brawler": "Nita",
+        "rarity": "Epic",
+        "theme": "Brawlidays",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Nita_Skin-Reinbear.png"
     },
 	
 	"Shiba Nita": {
@@ -206,11 +220,39 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/11/Nita_Skin-Mechagodzilla.png"
     },
 	
+	"Bruce Nita": {
+        "brawler": "Nita",
+        "rarity": "Mythic",
+        "theme": "April Fool's",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ab/Nita_Skin-Bruce.png"
+    },
+	
 	"Tusked Nita": {
         "brawler": "Nita",
         "rarity": "Legendary",
         "theme": "Bizarre Circus",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9d/Nita_Skin-Tusked.png"
+    },
+	
+	"Dustin Nita": {
+        "brawler": "Nita",
+        "rarity": "Hypercharge",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Nita_Skin-Dustin.png"
+    },
+	
+	"80's Dustin Nita": {
+        "brawler": "Nita",
+        "rarity": "Hypercharge",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Nita_Skin-80%27s_Dustin.png"
+    },
+	
+	"Future Dustin Nita": {
+        "brawler": "Nita",
+        "rarity": "Hypercharge",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Nita_Skin-Future_Dustin.png"
     },
 	
 	"True Silver Nita": {
@@ -308,6 +350,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c6/Colt_Skin-Royal_Agent.png"
     },
 
+    "Jade Agent Colt": {
+        "brawler": "Colt",
+        "rarity": "Epic",
+        "theme": "Lunar Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Colt_Skin-Jade_Agent.png"
+    },
+
     "Corsair Colt": {
         "brawler": "Colt",
         "rarity": "Epic",
@@ -325,8 +374,15 @@
     "Dark Angel Colt": {
         "brawler": "Colt",
         "rarity": "Epic",
-        "theme": "Misc",
+        "theme": "Angels vs. Demons",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Colt_Skin-Dark_Angel.png"
+    },
+
+    "Light Angel Colt": {
+        "brawler": "Colt",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Colt_Skin-Light_Angel.png"
     },
 
     "Challenger Colt": {
@@ -334,6 +390,13 @@
         "rarity": "Epic",
         "theme": "Brawl Stars Championship",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Colt_Skin-Challenger.png"
+    },
+
+    "Woody Colt": {
+        "brawler": "Colt",
+        "rarity": "Mythic",
+        "theme": "Toy Story",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5d/Colt_Skin-Woody.png"
     },
 
     "Mecha Colt": {
@@ -370,6 +433,41 @@
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/14/Colt_Skin-True_Gold.png"
     },
+
+    "Astral Colt": {
+        "brawler": "Colt",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/82/Colt_Skin-Astral.png"
+    },
+
+    "Astral IV Colt": {
+        "brawler": "Colt",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0e/Colt_Skin-Astral_IV.png"
+    },
+
+    "Ultra Astral Colt": {
+        "brawler": "Colt",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/97/Colt_Skin-Ultra_Astral.png"
+    },
+
+    "Guardian Colt": {
+        "brawler": "Colt",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Colt_Skin-Guardian.png"
+    },
+
+    "Hyperion Colt": {
+        "brawler": "Colt",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/32/Colt_Skin-Hyperion.png"
+    },
 	
 	
 	
@@ -380,6 +478,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b7/Bull_Skin-Default.png"
+    },
+
+    "Kansai Dragon Bull": {
+        "brawler": "Bull",
+        "rarity": "Rare",
+        "theme": "Retropolis Nights",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Bull_Skin-Kansai_Dragon.png"
     },
 
     "Barbarian King Bull": {
@@ -427,7 +532,7 @@
     "Space Ox Bull": {
         "brawler": "Bull",
         "rarity": "Epic",
-        "theme": "Lunar Brawl",
+        "theme": "StarrForce Assemble",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b5/Bull_Skin-Space_Ox.png"
     },
 
@@ -452,11 +557,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/62/Bull_Skin-Alleycat.png"
     },
 
+    "Hopper Bull": {
+        "brawler": "Bull",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Bull_Skin-Hopper.png"
+    },
+
     "Minotaur Bull": {
         "brawler": "Bull",
         "rarity": "Mythic",
         "theme": "Legends of Olympus",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/19/Bull_Skin-Minotaur.png"
+    },
+
+    "HellBull": {
+        "brawler": "Bull",
+        "rarity": "Mythic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1a/Bull_Skin-HellBull.png"
     },
 
     "True Silver Bull": {
@@ -482,6 +601,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/70/Brock_Skin-Default.png"
+    },
+
+    "Fresh Cut Brock": {
+        "brawler": "Brock",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Brock_Skin-Fresh_Cut.png"
     },
 
     "ZomBrock": {
@@ -617,6 +743,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/44/Brock_Skin-Zeus.png"
     },
 
+    "Boss Brock": {
+        "brawler": "Brock",
+        "rarity": "Mythic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Brock_Skin-Boss.png"
+    },
+
     "True Silver Brock": {
         "brawler": "Brock",
         "rarity": "True Silver",
@@ -624,11 +757,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/30/Brock_Skin-True_Silver.png"
     },
 
+    "True Silver Fresh Cut Brock": {
+        "brawler": "Brock",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a0/Brock_Skin-True_Silver_%28Fresh_Cut%29.png"
+    },
+
     "True Gold Brock": {
         "brawler": "Brock",
         "rarity": "True Gold",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Brock_Skin-True_Gold.png"
+    },
+
+    "True Gold Fresh Cut Brock": {
+        "brawler": "Brock",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cb/Brock_Skin-True_Gold_%28Fresh_Cut%29.png"
     },
 	
 	
@@ -640,6 +787,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/04/El_Primo_Skin-Default.png"
+    },
+    
+    "Vamprimo": {
+        "brawler": "El Primo",
+        "rarity": "Rare",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6e/El_Primo_Skin-Vamprimo.png"
     },
     
     "El Primo Universitario": {
@@ -733,11 +887,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f9/El_Primo_Skin-El_Baby_Shark.png"
     },
     
+    "El Grilo": {
+        "brawler": "El Primo",
+        "rarity": "Epic",
+        "theme": "Carreta",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/07/El_Primo_Skin-El_Grilo.png"
+    },
+    
     "El Quarterback": {
         "brawler": "El Primo",
         "rarity": "Mythic",
         "theme": "Super Brawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5c/El_Primo_Skin-El_Quarterback.png"
+    },
+    
+    "SpongeBob El Primo": {
+        "brawler": "El Primo",
+        "rarity": "Mythic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/El_Primo_Skin-SpongeBob.png"
     },
     
     "True Silver El Primo": {
@@ -796,7 +964,7 @@
     "Unicorn Knight Barley": {
         "brawler": "Barley",
         "rarity": "Super Rare",
-        "theme": "Once Upon",
+        "theme": "Knights!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Barley_Skin-Unicorn_Knight.png"
     },
 
@@ -819,6 +987,13 @@
         "rarity": "Epic",
         "theme": "Tales of the Sea",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Barley_Skin-Buccaneer.png"
+    },
+
+    "Eldritch Professor Barley": {
+        "brawler": "Barley",
+        "rarity": "Epic",
+        "theme": "Brawl Academy",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/aa/Barley_Skin-Eldritch_Professor.png"
     },
 
     "True Silver Barley": {
@@ -844,6 +1019,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Poco_Skin-Default.png"
+    },
+
+    "Phantom Poco": {
+        "brawler": "Poco",
+        "rarity": "Rare",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/12/Poco_Skin-Phantom.png"
     },
 
     "Pirate Poco": {
@@ -888,6 +1070,41 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6f/Poco_Skin-Desperado.png"
     },
 
+    "Quit Playing Poco": {
+        "brawler": "Poco",
+        "rarity": "Epic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/23/Poco_Skin-Quit_Playing.png"
+    },
+
+    "Possessed Poco": {
+        "brawler": "Poco",
+        "rarity": "Mythic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Poco_Skin-Possessed.png"
+    },
+
+    "DJ Poco": {
+        "brawler": "Poco",
+        "rarity": "Hypercharge",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/96/Poco_Skin-DJ.png"
+    },
+
+    "Beatmatcher Poco": {
+        "brawler": "Poco",
+        "rarity": "Hypercharge",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f7/Poco_Skin-Beatmatcher.png"
+    },
+
+    "Scratcher Poco": {
+        "brawler": "Poco",
+        "rarity": "Hypercharge",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Poco_Skin-Scratcher.png"
+    },
+
     "True Silver Poco": {
         "brawler": "Poco",
         "rarity": "True Silver",
@@ -911,6 +1128,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/34/Rosa_Skin-Default.png"
+    },
+
+    "Sunflowerosa": {
+        "brawler": "Rosa",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Rosa_Skin-Sunflowerosa.png"
     },
 
     "Brawl-o-ween Rosa": {
@@ -946,6 +1170,13 @@
         "rarity": "Epic",
         "theme": "Lunar Brawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/10/Rosa_Skin-Major.png"
+    },
+
+    "Sugarplum Rosa": {
+        "brawler": "Rosa",
+        "rarity": "Epic",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/59/Rosa_Skin-Sugarplum.png"
     },
 
     "True Silver Rosa": {
@@ -994,6 +1225,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a0/Jessie_Skin-Summer.png"
     },
 
+    "Sandy Jessie": {
+        "brawler": "Jessie",
+        "rarity": "Super Rare",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Jessie_Skin-Sandy.png"
+    },
+
+    "Jessie Jessie": {
+        "brawler": "Jessie",
+        "rarity": "Super Rare",
+        "theme": "Toy Story",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Jessie_Skin-Jessie.png"
+    },
+
     "Cat Burglar Jessie": {
         "brawler": "Jessie",
         "rarity": "Epic",
@@ -1004,14 +1249,14 @@
     "Dragon Knight Jessie": {
         "brawler": "Jessie",
         "rarity": "Epic",
-        "theme": "Once Upon",
+        "theme": "Knights!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/Jessie_Skin-Dragon_Knight.png"
     },
 
     "Shadow Knight Jessie": {
         "brawler": "Jessie",
         "rarity": "Epic",
-        "theme": "Once Upon",
+        "theme": "Knights!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/49/Jessie_Skin-Shadow_Knight.png"
     },
 
@@ -1022,11 +1267,39 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/75/Jessie_Skin-Tanuki.png"
     },
 
+    "Jessie Musketeer": {
+        "brawler": "Jessie",
+        "rarity": "Epic",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Jessie_Skin-Jessie_Musketeer.png"
+    },
+
     "Skadi Jessie": {
         "brawler": "Jessie",
         "rarity": "Mythic",
         "theme": "Northern Saga",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/83/Jessie_Skin-Skadi.png"
+    },
+
+    "Mecha Jessie": {
+        "brawler": "Jessie",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7b/Jessie_Skin-Mecha.png"
+    },
+
+    "Shining Mecha Jessie": {
+        "brawler": "Jessie",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ac/Jessie_Skin-Shining_Mecha.png"
+    },
+
+    "Bubblegum Mecha Jessie": {
+        "brawler": "Jessie",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Jessie_Skin-Bubblegum_Mecha.png"
     },
 
     "True Silver Jessie": {
@@ -1052,6 +1325,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6e/Dynamike_Skin-Default.png"
+    },
+
+    "Firecracker Wizard Mike": {
+        "brawler": "Dynamike",
+        "rarity": "Rare",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Dynamike_Skin-Firecracker_Wizard_Mike.png"
     },
 
     "Flamengo Mike": {
@@ -1082,11 +1362,32 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Dynamike_Skin-Santa_Mike.png"
     },
 
+    "Sugar Bomb Mike": {
+        "brawler": "Dynamike",
+        "rarity": "Super Rare",
+        "theme": "Brawlidays",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8a/Dynamike_Skin-Sugar_Bomb_Mike.png"
+    },
+
     "Bellhop Mike": {
         "brawler": "Dynamike",
         "rarity": "Super Rare",
         "theme": "Brawlidays",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b0/Dynamike_Skin-Bellhop_Mike.png"
+    },
+
+    "Decaying Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "Super Rare",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d1/Dynamike_Skin-Decaying.png"
+    },
+
+    "Romantic Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "Super Rare",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Dynamike_Skin-Romantic.png"
     },
 
     "Boomer Dynamike": {
@@ -1165,6 +1466,41 @@
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c2/Dynamike_Skin-True_Gold.png"
     },
+
+    "Occultist Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cc/Dynamike_Skin-Occultist.png"
+    },
+
+    "Haunted Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/13/Dynamike_Skin-Haunted.png"
+    },
+
+    "Possessed Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Dynamike_Skin-Possessed.png"
+    },
+
+    "Ghastly Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9e/Dynamike_Skin-Ghastly.png"
+    },
+
+    "Ghoulish Dynamike": {
+        "brawler": "Dynamike",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1e/Dynamike_Skin-Ghoulish.png"
+    },
 	
 	
 	
@@ -1175,6 +1511,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Tick_Skin-Default.png"
+    },
+
+    "Eggsplosion Tick": {
+        "brawler": "Tick",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7e/Tick_Skin-Eggsplosion.png"
     },
 
     "King Crab Tick": {
@@ -1189,6 +1532,13 @@
         "rarity": "Super Rare",
         "theme": "Brawlidays",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Tick_Skin-Snowman.png"
+    },
+
+    "Mr. Krabs Tick": {
+        "brawler": "Tick",
+        "rarity": "Super Rare",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Tick_Skin-Mr._Krabs.png"
     },
 
     "Tick Shooky": {
@@ -1222,8 +1572,15 @@
     "Cerberus Tick": {
         "brawler": "Tick",
         "rarity": "Mythic",
-        "theme": "Legends of Olympus",
+        "theme": "Legends of Hades",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Tick_Skin-Cerberus.png"
+    },
+
+    "Headless Tickman": {
+        "brawler": "Tick",
+        "rarity": "Legendary",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Tick_Skin-Headless_Tickman.png"
     },
 
     "True Silver Tick": {
@@ -1286,17 +1643,31 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2b/8-Bit_Skin-Haunted_House.png"
     },
 
+    "Ascended 8-Bit": {
+        "brawler": "8-Bit",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/78/8-Bit_Skin-Ascended.png"
+    },
+
+    "Canopic 8-Bit": {
+        "brawler": "8-Bit",
+        "rarity": "Mythic",
+        "theme": "Carreta",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cd/8-Bit_Skin-Canopic.png"
+    },
+
     "Virus 8-Bit": {
         "brawler": "8-Bit",
         "rarity": "Legendary",
-        "theme": "Lunar Brawl",
+        "theme": "Cyberbrawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7d/8-Bit_Skin-Virus.png"
     },
 
     "Antivirus 8-Bit": {
         "brawler": "8-Bit",
         "rarity": "Legendary",
-        "theme": "Lunar Brawl",
+        "theme": "Cyberbrawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/49/8-Bit_Skin-Antivirus.png"
     },
 
@@ -1323,6 +1694,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/71/Rico_Skin-Default.png"
+    },
+
+    "Redjacket Rico": {
+        "brawler": "Rico",
+        "rarity": "Rare",
+        "theme": "City Troubles",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Rico_Skin-Redjacket.png"
     },
 
     "Ricochet": {
@@ -1381,6 +1759,41 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Rico_Skin-Final_Boss.png"
     },
 
+    "Heartbroken Rico": {
+        "brawler": "Rico",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Rico_Skin-Heartbroken.png"
+    },
+
+    "Breakup Rico": {
+        "brawler": "Rico",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c5/Rico_Skin-Breakup.png"
+    },
+
+    "Revenge Rico": {
+        "brawler": "Rico",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ec/Rico_Skin-Revenge.png"
+    },
+
+    "Egg Rico": {
+        "brawler": "Rico",
+        "rarity": "Mythic",
+        "theme": "April Fool's",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5c/Rico_Skin-Egg.png"
+    },
+
+    "Ghost Diver Rico": {
+        "brawler": "Rico",
+        "rarity": "Mythic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Rico_Skin-Ghost_Diver.png"
+    },
+
     "Sovereign Rico": {
         "brawler": "Rico",
         "rarity": "Hypercharge",
@@ -1427,6 +1840,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/66/Darryl_Skin-Default.png"
     },
 
+    "Pop-Up Darryl": {
+        "brawler": "Darryl",
+        "rarity": "Rare",
+        "theme": "Come Play With Us!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Darryl_Skin-Pop-Up.png"
+    },
+
     "Dumpling Darryl": {
         "brawler": "Darryl",
         "rarity": "Super Rare",
@@ -1444,7 +1864,7 @@
     "D4R-RY1": {
         "brawler": "Darryl",
         "rarity": "Super Rare",
-        "theme": "Lunar Brawl",
+        "theme": "StarrForce Assemble",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Darryl_Skin-D4R-RY1.png"
     },
 
@@ -1476,6 +1896,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Darryl_Skin-Cupcake.png"
     },
 
+    "Plankton Darryl": {
+        "brawler": "Darryl",
+        "rarity": "Epic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Darryl_Skin-Plankton.png"
+    },
+
+    "Sheepish Darryl": {
+        "brawler": "Darryl",
+        "rarity": "Epic",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Darryl_Skin-Sheepish.png"
+    },
+
     "True Silver Darryl": {
         "brawler": "Darryl",
         "rarity": "True Silver",
@@ -1499,6 +1933,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Penny_Skin-Default.png"
+    },
+
+    "Robo Penny": {
+        "brawler": "Penny",
+        "rarity": "Rare",
+        "theme": "Cyberbrawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2d/Penny_Skin-Robo.png"
     },
 
     "Bunny Penny": {
@@ -1529,11 +1970,11 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/82/Penny_Skin-Smuggler.png"
     },
 
-    "Moon-curser Penny": {
+    "Moon-Curser Penny": {
         "brawler": "Penny",
         "rarity": "Epic",
         "theme": "The Worst Bunch",
-		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4b/Penny_Skin-Moon-curser.png"
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/99/Penny_Skin-Moon-Curser.png"
     },
 
     "Trash Panda Penny": {
@@ -1541,6 +1982,27 @@
         "rarity": "Epic",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Penny_Skin-Trash_Panda.png"
+    },
+
+    "Truant Penny": {
+        "brawler": "Penny",
+        "rarity": "Epic",
+        "theme": "Brawl Academy",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Penny_Skin-Truant.png"
+    },
+
+    "Archer Queen Penny": {
+        "brawler": "Penny",
+        "rarity": "Epic",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Penny_Skin-Archer_Queen.png"
+    },
+
+    "Pop Penny": {
+        "brawler": "Penny",
+        "rarity": "Mythic",
+        "theme": "Come Play With Us!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Penny_Skin-Pop.png"
     },
 
     "True Silver Penny": {
@@ -1631,6 +2093,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f5/Carl_Skin-Biker.png"
     },
 
+    "Insector Carl": {
+        "brawler": "Carl",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Carl_Skin-Insector.png"
+    },
+
+    "Crazy Clown Carl": {
+        "brawler": "Carl",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bd/Carl_Skin-Crazy_Clown.png"
+    },
+
     "True Silver Carl": {
         "brawler": "Carl",
         "rarity": "True Silver",
@@ -1705,6 +2181,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/aa/Jacky_Skin-Wave_Hopper.png"
     },
 
+    "Knight Jacky": {
+        "brawler": "Jacky",
+        "rarity": "Mythic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/67/Jacky_Skin-Knight.png"
+    },
+
     "True Silver Jacky": {
         "brawler": "Jacky",
         "rarity": "True Silver",
@@ -1744,11 +2227,32 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/37/Gus_Skin-Balloon_Sally.png"
     },
 
+    "Gruesome Gus": {
+        "brawler": "Gus",
+        "rarity": "Super Rare",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Gus_Skin-Gruesome.png"
+    },
+
     "World Champion Gus": {
         "brawler": "Gus",
         "rarity": "Epic",
         "theme": "Brawl Stars Championship",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f8/Gus_Skin-World_Champion.png"
+    },
+
+    "Grim Gus": {
+        "brawler": "Gus",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/00/Gus_Skin-Grim.png"
+    },
+
+    "Will Gus": {
+        "brawler": "Gus",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Gus_Skin-Will.png"
     },
 
     "True Silver Gus": {
@@ -1790,17 +2294,24 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/05/Bo_Skin-Ho_Ho_Ho.png"
     },
 
+    "Cupid Bo": {
+        "brawler": "Bo",
+        "rarity": "Super Rare",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d2/Bo_Skin-Cupid.png"
+    },
+
     "Horus Bo": {
         "brawler": "Bo",
         "rarity": "Epic",
-        "theme": "Sands of Time",
+        "theme": "Dark Sands",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1b/Bo_Skin-Horus.png"
     },
 
     "Underworld Bo": {
         "brawler": "Bo",
         "rarity": "Epic",
-        "theme": "Flaming",
+        "theme": "Angels vs. Demons",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2b/Bo_Skin-Underworld.png"
     },
 
@@ -1809,6 +2320,27 @@
         "rarity": "Epic",
         "theme": "Biodome",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/51/Bo_Skin-Wasp.png"
+    },
+
+    "King Starrthur Bo": {
+        "brawler": "Bo",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/af/Bo_Skin-King_Starrthur.png"
+    },
+
+    "King Archer Bo": {
+        "brawler": "Bo",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Bo_Skin-King_Archer.png"
+    },
+
+    "Knight Bo": {
+        "brawler": "Bo",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/be/Bo_Skin-Knight.png"
     },
 
     "Brother Bo": {
@@ -1902,22 +2434,50 @@
 	"Medusa Emz": {
         "brawler": "Emz",
         "rarity": "Epic",
-        "theme": "Legends of Olympus",
+        "theme": "Legends of Hades",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Emz_Skin-Medusa.png"
     },
     
 	"Ruby Medusa Emz": {
         "brawler": "Emz",
         "rarity": "Epic",
-        "theme": "Legends of Olympus",
+        "theme": "Legends of Hades",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/23/Emz_Skin-Ruby_Medusa.png"
     },
     
 	"Sapphire Medusa Emz": {
         "brawler": "Emz",
         "rarity": "Epic",
-        "theme": "Legends of Olympus",
+        "theme": "Legends of Hades",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Emz_Skin-Sapphire_Medusa.png"
+    },
+    
+	"Demon Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Emz_Skin-Demon.png"
+    },
+    
+	"Streetwear Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d7/Emz_Skin-Streetwear.png"
+    },
+    
+	"Techwear Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/df/Emz_Skin-Techwear.png"
+    },
+    
+	"Hypebeast Emz": {
+        "brawler": "Emz",
+        "rarity": "Epic",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1e/Emz_Skin-Hypebeast.png"
     },
     
 	"True Silver Emz": {
@@ -1952,11 +2512,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/47/Stu_Skin-Superstar.png"
     },
 
+    "Graffiti Stu": {
+        "brawler": "Stu",
+        "rarity": "Rare",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Stu_Skin-Graffiti.png"
+    },
+
     "Wicked Stu": {
         "brawler": "Stu",
         "rarity": "Super Rare",
         "theme": "THE BAD RANDOMS",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Stu_Skin-Wicked.png"
+    },
+
+    "Woodriver Stu": {
+        "brawler": "Stu",
+        "rarity": "Super Rare",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a0/Stu_Skin-Woodriver.png"
     },
 
     "Headless Rider Stu": {
@@ -1971,6 +2545,27 @@
         "rarity": "Epic",
         "theme": "Brawlidays",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7d/Stu_Skin-Santa.png"
+    },
+
+    "Steampunk Stu": {
+        "brawler": "Stu",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c7/Stu_Skin-Steampunk.png"
+    },
+
+    "Crime Lord Stu": {
+        "brawler": "Stu",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Stu_Skin-Crime_Lord.png"
+    },
+
+    "Iced Out Stu": {
+        "brawler": "Stu",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/50/Stu_Skin-Iced_Out.png"
     },
 
     "Jock Stu": {
@@ -2054,11 +2649,53 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Piper_Skin-Flag_Bearer.png"
     },
 
+    "Kasa-obake Piper": {
+        "brawler": "Piper",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Piper_Skin-Kasa-obake.png"
+    },
+
+    "Yokai Piper": {
+        "brawler": "Piper",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e7/Piper_Skin-Yokai.png"
+    },
+
+    "Tsukumogami Piper": {
+        "brawler": "Piper",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/59/Piper_Skin-Tsukumogami.png"
+    },
+
     "Athena Piper": {
         "brawler": "Piper",
         "rarity": "Mythic",
         "theme": "Legends of Olympus",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d4/Piper_Skin-Athena.png"
+    },
+
+    "Mecha Lotus Piper": {
+        "brawler": "Piper",
+        "rarity": "Hypercharge",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/79/Piper_Skin-Mecha_Lotus.png"
+    },
+
+    "Mecha Rose Piper": {
+        "brawler": "Piper",
+        "rarity": "Hypercharge",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ea/Piper_Skin-Mecha_Rose.png"
+    },
+
+    "Mecha Petal Piper": {
+        "brawler": "Piper",
+        "rarity": "Hypercharge",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/85/Piper_Skin-Mecha_Petal.png"
     },
 
     "True Silver Piper": {
@@ -2098,6 +2735,20 @@
         "rarity": "Super Rare",
         "theme": "City Troubles",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d0/Pam_Skin-Stonks.png"
+    },
+
+    "Putrid Pam": {
+        "brawler": "Pam",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/13/Pam_Skin-Putrid.png"
+    },
+
+    "Egg Pam": {
+        "brawler": "Pam",
+        "rarity": "Mythic",
+        "theme": "April Fool's",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Pam_Skin-Egg.png"
     },
 
     "Evil Queen Pam": {
@@ -2170,8 +2821,29 @@
     "Spirit Knight Frank": {
         "brawler": "Frank",
         "rarity": "Epic",
-        "theme": "Once Upon",
+        "theme": "Knights!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/13/Frank_Skin-Spirit_Knight.png"
+    },
+
+    "Mummified Frank": {
+        "brawler": "Frank",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9e/Frank_Skin-Mummified.png"
+    },
+
+    "Papyrus Frank": {
+        "brawler": "Frank",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5f/Frank_Skin-Papyrus.png"
+    },
+
+    "Charcoal Frank": {
+        "brawler": "Frank",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/45/Frank_Skin-Charcoal.png"
     },
 
     "Vanara Frank": {
@@ -2179,6 +2851,20 @@
         "rarity": "Mythic",
         "theme": "Warrior's Journey",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d0/Frank_Skin-Vanara.png"
+    },
+
+    "Red King Frank": {
+        "brawler": "Frank",
+        "rarity": "Legendary",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Frank_Skin-Red_King.png"
+    },
+
+    "Blue King Frank": {
+        "brawler": "Frank",
+        "rarity": "Legendary",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/00/Frank_Skin-Blue_King.png"
     },
 
     "True Silver Frank": {
@@ -2234,13 +2920,6 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/12/Bibi_Skin-Bibilante.png"
     },
 
-    "Heroine Bibi": {
-        "brawler": "Bibi",
-        "rarity": "Epic",
-        "theme": "Lunar Brawl",
-		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/28/Bibi_Skin-Heroine.png"
-    },
-
     "Bibi RJ": {
         "brawler": "Bibi",
         "rarity": "Epic",
@@ -2255,10 +2934,52 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b6/Bibi_Skin-Cursed_Pirate.png"
     },
 
+    "Bo Peep Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Toy Story",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bf/Bibi_Skin-Bo_Peep.png"
+    },
+
+    "Justice Smasher Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Bibi_Skin-Justice_Smasher.png"
+    },
+
+    "Injustice Smasher Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0d/Bibi_Skin-Injustice_Smasher.png"
+    },
+
+    "Virtue Smasher Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c1/Bibi_Skin-Virtue_Smasher.png"
+    },
+
+    "Bodyguard Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0a/Bibi_Skin-Bodyguard.png"
+    },
+
+    "Heroine Bibi": {
+        "brawler": "Bibi",
+        "rarity": "Epic",
+        "theme": "Gaming",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/28/Bibi_Skin-Heroine.png"
+    },
+
     "Gamer Bibi": {
         "brawler": "Bibi",
         "rarity": "Mythic",
-        "theme": "Lunar Brawl",
+        "theme": "Gaming",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5b/Bibi_Skin-Gamer.png"
     },
 
@@ -2336,6 +3057,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/71/Bea_Skin-Mega_Beetle.png"
     },
 
+    "AEB": {
+        "brawler": "Bea",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/01/Bea_Skin-AEB.png"
+    },
+
     "True Silver Bea": {
         "brawler": "Bea",
         "rarity": "True Silver",
@@ -2380,6 +3108,20 @@
         "rarity": "Epic",
         "theme": "Brown & Friends",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/db/Nani_Skin-Sally.png"
+    },
+
+    "Knightmare Nani": {
+        "brawler": "Nani",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/31/Nani_Skin-Knightmare.png"
+    },
+
+    "Snow Globe Nani": {
+        "brawler": "Nani",
+        "rarity": "Epic",
+        "theme": "Brawlidays",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b0/Nani_Skin-Snow_Globe.png"
     },
 
     "Ares Nani": {
@@ -2449,6 +3191,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/46/Edgar_Skin-Edgar_Tata.png"
     },
 
+    "Shin Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/10/Edgar_Skin-Shin.png"
+    },
+
+    "Drift Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Edgar_Skin-Drift.png"
+    },
+
+    "Masked Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Edgar_Skin-Masked.png"
+    },
+
     "Thief Edgar": {
         "brawler": "Edgar",
         "rarity": "Mythic",
@@ -2477,6 +3240,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e9/Edgar_Skin-Mecha_%28Unit-01%29.png"
     },
 
+    "Dark Angel Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f8/Edgar_Skin-Dark_Angel.png"
+    },
+
+    "Lightbearer Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2f/Edgar_Skin-Lightbearer.png"
+    },
+
+    "Nightbringer Edgar": {
+        "brawler": "Edgar",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f2/Edgar_Skin-Nightbringer.png"
+    },
+
     "True Silver Edgar": {
         "brawler": "Edgar",
         "rarity": "True Silver",
@@ -2502,10 +3286,17 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/Griff_Skin-Default.png"
     },
 
+    "Jackpot Griff": {
+        "brawler": "Griff",
+        "rarity": "Super Rare",
+        "theme": "Summer of Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/80/Griff_Skin-Jackpot.png"
+    },
+
     "High Score Griff": {
         "brawler": "Griff",
         "rarity": "Super Rare",
-        "theme": "Lunar Brawl",
+        "theme": "Gaming",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b5/Griff_Skin-High_Score.png"
     },
 
@@ -2521,6 +3312,34 @@
         "rarity": "Epic",
         "theme": "Cursed Pirates",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Griff_Skin-Sunken_Chest.png"
+    },
+
+    "Intergalactic Griff": {
+        "brawler": "Griff",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Griff_Skin-Intergalactic.png"
+    },
+
+    "Dragon Griff": {
+        "brawler": "Griff",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Griff_Skin-Dragon.png"
+    },
+
+    "Greedy Griff": {
+        "brawler": "Griff",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/ce/Griff_Skin-Greedy.png"
+    },
+
+    "Hoarder Griff": {
+        "brawler": "Griff",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d8/Griff_Skin-Hoarder.png"
     },
 
     "True Silver Griff": {
@@ -2548,6 +3367,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0a/Grom_Skin-Default.png"
     },
 
+    "Grombin Hood": {
+        "brawler": "Grom",
+        "rarity": "Super Rare",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/88/Grom_Skin-Grombin_Hood.png"
+    },
+
     "Bunny Grom": {
         "brawler": "Grom",
         "rarity": "Super Rare",
@@ -2567,6 +3393,13 @@
         "rarity": "Mythic",
         "theme": "Warrior's Journey",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d8/Grom_Skin-Dasis.png"
+    },
+
+    "Protector Grom": {
+        "brawler": "Grom",
+        "rarity": "Mythic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Grom_Skin-Protector.png"
     },
 
     "True Silver Grom": {
@@ -2615,11 +3448,46 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Bonnie_Skin-Tentacle.png"
     },
 
+    "Icarus Bonnie": {
+        "brawler": "Bonnie",
+        "rarity": "Super Rare",
+        "theme": "Legends of Olympus",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Bonnie_Skin-Icarus.png"
+    },
+
     "Empress Bonnie": {
         "brawler": "Bonnie",
         "rarity": "Epic",
         "theme": "The Worst Bunch",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0c/Bonnie_Skin-Empress.png"
+    },
+
+    "Reindeer Bonnie": {
+        "brawler": "Bonnie",
+        "rarity": "Epic",
+        "theme": "Brawlidays",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6f/Bonnie_Skin-Reindeer.png"
+    },
+
+    "Faerie Bonnie": {
+        "brawler": "Bonnie",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/58/Bonnie_Skin-Faerie.png"
+    },
+
+    "Dark Faerie Bonnie": {
+        "brawler": "Bonnie",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/01/Bonnie_Skin-Dark_Faerie.png"
+    },
+
+    "Bright Faerie Bonnie": {
+        "brawler": "Bonnie",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/92/Bonnie_Skin-Bright_Faerie.png"
     },
 
     "True Silver Bonnie": {
@@ -2645,6 +3513,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1e/Gale_Skin-Default.png"
+    },
+
+    "Galactic Gale": {
+        "brawler": "Gale",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0e/Gale_Skin-Galactic.png"
     },
 
     "Nutcracker Gale": {
@@ -2675,6 +3550,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Gale_Skin-Merchant.png"
     },
 
+    "Steampunk Gale": {
+        "brawler": "Gale",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/03/Gale_Skin-Steampunk.png"
+    },
+
+    "Fancy Man Gale": {
+        "brawler": "Gale",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6c/Gale_Skin-Fancy_Man.png"
+    },
+
+    "Dapper Gale": {
+        "brawler": "Gale",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/50/Gale_Skin-Dapper.png"
+    },
+
     "True Silver Gale": {
         "brawler": "Gale",
         "rarity": "True Silver",
@@ -2700,10 +3596,17 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Colette_Skin-Default.png"
     },
 
+    "Cuckoo Colette": {
+        "brawler": "Colette",
+        "rarity": "Rare",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/03/Colette_Skin-Cuckoo.png"
+    },
+
     "Navigator Colette": {
         "brawler": "Colette",
         "rarity": "Super Rare",
-        "theme": "Lunar Brawl",
+        "theme": "StarrForce Assemble",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/17/Colette_Skin-Navigator.png"
     },
 
@@ -2733,6 +3636,20 @@
         "rarity": "Epic",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/22/Colette_Skin-Trixie.png"
+    },
+
+    "Impie Colette": {
+        "brawler": "Colette",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0b/Colette_Skin-Impie.png"
+    },
+
+    "Tokusatsu Colette": {
+        "brawler": "Colette",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/db/Colette_Skin-Tokusatsu.png"
     },
 
     "Pinku Pawlette": {
@@ -2781,6 +3698,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Belle_Skin-Default.png"
     },
 
+    "Beach Belle": {
+        "brawler": "Belle",
+        "rarity": "Rare",
+        "theme": "Summer of Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/79/Belle_Skin-Beach.png"
+    },
+
     "Ivy Belle": {
         "brawler": "Belle",
         "rarity": "Super Rare",
@@ -2800,6 +3724,20 @@
         "rarity": "Epic",
         "theme": "Outlaws",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Belle_Skin-Belle_Goldhand.png"
+    },
+
+    "Dragoon Belle": {
+        "brawler": "Belle",
+        "rarity": "Epic",
+        "theme": "The Worst Bunch",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1f/Belle_Skin-Dragoon.png"
+    },
+
+    "Knight Belle": {
+        "brawler": "Belle",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/89/Belle_Skin-Knight.png"
     },
 
     "True Silver Belle": {
@@ -2827,11 +3765,32 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ash_Skin-Default.png"
     },
 
+    "Sandcastle Ash": {
+        "brawler": "Ash",
+        "rarity": "Rare",
+        "theme": "Summer of Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Ash_Skin-Sandcastle.png"
+    },
+
     "Krampus Ash": {
         "brawler": "Ash",
         "rarity": "Super Rare",
         "theme": "Dark Winter Tales",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Ash_Skin-Krampus.png"
+    },
+
+    "Ash Boy": {
+        "brawler": "Ash",
+        "rarity": "Super Rare",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/28/Ash_Skin-Ash_Boy.png"
+    },
+
+    "P.E.K.K.A.S.H": {
+        "brawler": "Ash",
+        "rarity": "Super Rare",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/00/Ash_Skin-P.E.K.K.A.S.H.png"
     },
 
     "Pizza Oven Ash": {
@@ -2853,6 +3812,13 @@
         "rarity": "Epic",
         "theme": "The Ayakashi Clan",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Ash_Skin-Ninja.png"
+    },
+
+    "Shinobi Ash": {
+        "brawler": "Ash",
+        "rarity": "Epic",
+        "theme": "The Ayakashi Clan",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/83/Ash_Skin-Shinobi.png"
     },
 
     "True Silver Ash": {
@@ -2878,6 +3844,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f1/Lola_Skin-Default.png"
+    },
+
+    "High Flyer Lola": {
+        "brawler": "Lola",
+        "rarity": "Rare",
+        "theme": "City Troubles",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/44/Lola_Skin-High_Flyer.png"
     },
 
     "Galaxy Storm Lola": {
@@ -2920,6 +3893,13 @@
         "rarity": "Epic",
         "theme": "City Troubles",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bb/Lola_Skin-Rebel.png"
+    },
+
+    "Loopy Lola": {
+        "brawler": "Lola",
+        "rarity": "Epic",
+        "theme": "Come Play With Us!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d4/Lola_Skin-Loopy.png"
     },
 
     "True Silver Lola": {
@@ -2975,6 +3955,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b5/Sam_Skin-Caesar.png"
     },
 
+    "Spectaculor Sam": {
+        "brawler": "Sam",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bb/Sam_Skin-Spectaculor.png"
+    },
+
+    "Peaky Sam": {
+        "brawler": "Sam",
+        "rarity": "Epic",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/56/Sam_Skin-Peaky.png"
+    },
+
     "True Silver Sam": {
         "brawler": "Sam",
         "rarity": "True Silver",
@@ -3007,6 +4001,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/21/Mandy_Skin-MC.png"
     },
 
+    "Witch Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Super Rare",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Mandy_Skin-Witch.png"
+    },
+
     "Hanbok Mandy": {
         "brawler": "Mandy",
         "rarity": "Epic",
@@ -3019,6 +4020,41 @@
         "rarity": "Epic",
         "theme": "Flaming",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3b/Mandy_Skin-Magma.png"
+    },
+
+    "Malicious Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7c/Mandy_Skin-Malicious.png"
+    },
+
+    "Mecha Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Epic",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/86/Mandy_Skin-Mecha.png"
+    },
+
+    "Mecha Wasp Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Epic",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Mandy_Skin-Mecha_Wasp.png"
+    },
+
+    "Mecha Shade Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Epic",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d1/Mandy_Skin-Mecha_Shade.png"
+    },
+
+    "Carnaval Mandy": {
+        "brawler": "Mandy",
+        "rarity": "Mythic",
+        "theme": "Brawlnaval",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/65/Mandy_Skin-Carnaval.png"
     },
 
     "True Silver Mandy": {
@@ -3067,6 +4103,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/38/Maisie_Skin-Jungle_Queen.png"
     },
 
+    "Amazing Maisie": {
+        "brawler": "Maisie",
+        "rarity": "Epic",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ad/Maisie_Skin-Amazing.png"
+    },
+
+    "Fuchsia Maisie": {
+        "brawler": "Maisie",
+        "rarity": "Epic",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8d/Maisie_Skin-Fuchsia.png"
+    },
+
+    "Titanium Maisie": {
+        "brawler": "Maisie",
+        "rarity": "Epic",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1b/Maisie_Skin-Titanium.png"
+    },
+
     "True Silver Maisie": {
         "brawler": "Maisie",
         "rarity": "True Silver",
@@ -3099,11 +4156,39 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8f/Hank_Skin-Shark_Tank.png"
     },
 
+    "Moon Guardian Hank": {
+        "brawler": "Hank",
+        "rarity": "Super Rare",
+        "theme": "Lunar Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/30/Hank_Skin-Moon_Guardian.png"
+    },
+
     "Rodeo Hank": {
         "brawler": "Hank",
         "rarity": "Mythic",
         "theme": "Wasteland",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9b/Hank_Skin-Rodeo.png"
+    },
+
+    "Jam Master Hank": {
+        "brawler": "Hank",
+        "rarity": "Mythic",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Hank_Skin-Jam_Master.png"
+    },
+
+    "True Silver Hank": {
+        "brawler": "Hank",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Hank_Skin-True_Silver.png"
+    },
+
+    "True Gold Hank": {
+        "brawler": "Hank",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/01/Hank_Skin-True_Gold.png"
     },
 	
 	
@@ -3124,11 +4209,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Pearl_Skin-Vintage.png"
     },
 
+    "Dark Keep Pearl": {
+        "brawler": "Pearl",
+        "rarity": "Super Rare",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8a/Pearl_Skin-Dark_Keep.png"
+    },
+
     "Periscope Pearl": {
         "brawler": "Pearl",
         "rarity": "Epic",
         "theme": "Deep Sea League",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Pearl_Skin-Periscope.png"
+    },
+
+    "Porcelain Pearl": {
+        "brawler": "Pearl",
+        "rarity": "Mythic",
+        "theme": "Lunar Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5c/Pearl_Skin-Porcelain.png"
     },
 
     "True Silver Pearl": {
@@ -3170,6 +4269,34 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a0/Larry_%26_Lawrie_Skin-Glitch.png"
     },
 
+    "Angel Larry & Lawrie": {
+        "brawler": "Larry & Lawrie",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Larry_%26_Lawrie_Skin-Angel.png"
+    },
+
+    "Radiant Larry & Lawrie": {
+        "brawler": "Larry & Lawrie",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Larry_%26_Lawrie_Skin-Radiant.png"
+    },
+
+    "Dark Angel Larry & Lawrie": {
+        "brawler": "Larry & Lawrie",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/Larry_%26_Lawrie_Skin-Dark_Angel.png"
+    },
+
+    "Magic Lamp Larry & Lawrie": {
+        "brawler": "Larry & Lawrie",
+        "rarity": "Legendary",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Larry_%26_Lawrie_Skin-Magic_Lamp.png"
+    },
+
     "True Silver Larry & Lawrie": {
         "brawler": "Larry & Lawrie",
         "rarity": "True Silver",
@@ -3209,6 +4336,34 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Angelo_Skin-Dionysus.png"
     },
 
+    "Tengu Angelo": {
+        "brawler": "Angelo",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f1/Angelo_Skin-Tengu.png"
+    },
+
+    "Brawlentine's Angelo": {
+        "brawler": "Angelo",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3d/Angelo_Skin-Brawlentine%27s.png"
+    },
+
+    "Brawlentine's Adonis Angelo": {
+        "brawler": "Angelo",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Angelo_Skin-Brawlentine%27s_Adonis.png"
+    },
+
+    "Brawlentine's Snatched Angelo": {
+        "brawler": "Angelo",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Angelo_Skin-Brawlentine%27s_Snatched.png"
+    },
+
     "True Silver Angelo": {
         "brawler": "Angelo",
         "rarity": "True Silver",
@@ -3239,6 +4394,158 @@
         "rarity": "Rare",
         "theme": "Starrs of Brawlywood",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Berry_Skin-Dark_Horse.png"
+    },
+
+    "StarrHorse Berry": {
+        "brawler": "Berry",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/69/Berry_Skin-StarrHorse.png"
+    },
+
+    "Pegasus Berry": {
+        "brawler": "Berry",
+        "rarity": "Epic",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Berry_Skin-Pegasus.png"
+    },
+
+    "Scoops Ahoy Berry": {
+        "brawler": "Berry",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fa/Berry_Skin-Scoops_Ahoy.png"
+    },
+
+    "True Silver Berry": {
+        "brawler": "Berry",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Berry_Skin-True_Silver.png"
+    },
+
+    "True Gold Berry": {
+        "brawler": "Berry",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/77/Berry_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Shade": {
+        "brawler": "Shade",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Shade_Skin-Default.png"
+    },
+
+    "Cinema Shade": {
+        "brawler": "Shade",
+        "rarity": "Rare",
+        "theme": "City Troubles",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ea/Shade_Skin-Cinema.png"
+    },
+
+    "Street Shade": {
+        "brawler": "Shade",
+        "rarity": "Super Rare",
+        "theme": "Brawl Stars Championship",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/25/Shade_Skin-Street.png"
+    },
+
+    "Brawlentine's Bear Shade": {
+        "brawler": "Shade",
+        "rarity": "Legendary",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6f/Shade_Skin-Brawlentine%27s_Bear.png"
+    },
+
+    "True Silver Shade": {
+        "brawler": "Shade",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e5/Shade_Skin-True_Silver.png"
+    },
+
+    "True Gold Shade": {
+        "brawler": "Shade",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/71/Shade_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Meeple": {
+        "brawler": "Meeple",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Meeple_Skin-Default.png"
+    },
+
+    "Strike Meeple": {
+        "brawler": "Meeple",
+        "rarity": "Rare",
+        "theme": "Come Play With Us!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Meeple_Skin-Strike.png"
+    },
+
+    "Mystic Meeple": {
+        "brawler": "Meeple",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1b/Meeple_Skin-Mystic.png"
+    },
+
+    "True Silver Meeple": {
+        "brawler": "Meeple",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2b/Meeple_Skin-True_Silver.png"
+    },
+
+    "True Gold Meeple": {
+        "brawler": "Meeple",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Meeple_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Trunk": {
+        "brawler": "Trunk",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5a/Trunk_Skin-Default.png"
+    },
+
+    "Swimming Trunk": {
+        "brawler": "Trunk",
+        "rarity": "Rare",
+        "theme": "Summer of Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Trunk_Skin-Swimming.png"
+    },
+
+    "True Silver Trunk": {
+        "brawler": "Trunk",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9f/Trunk_Skin-True_Silver.png"
+    },
+
+    "True Gold Trunk": {
+        "brawler": "Trunk",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ae/Trunk_Skin-True_Gold.png"
     },
 	
 	
@@ -3301,6 +4608,48 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Mortis_Skin-Hockey.png"
     },
 
+    "Squidward Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0e/Mortis_Skin-Squidward.png"
+    },
+
+    "Pink Squidward Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Mortis_Skin-Pink_Squidward.png"
+    },
+
+    "Blue Squidward Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Mortis_Skin-Blue_Squidward.png"
+    },
+
+    "Hades Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a9/Mortis_Skin-Hades.png"
+    },
+
+    "Serapis Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9d/Mortis_Skin-Serapis.png"
+    },
+
+    "Pluto Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Epic",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d2/Mortis_Skin-Pluto.png"
+    },
+
     "Mecha Mortis": {
         "brawler": "Mortis",
         "rarity": "Legendary",
@@ -3322,7 +4671,35 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Mortis_Skin-Dark_Mecha.png"
     },
 
+    "Demon Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Mortis_Skin-Demon.png"
+    },
+
+    "Devilish Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/aa/Mortis_Skin-Devilish.png"
+    },
+
+    "Lambent Mortis": {
+        "brawler": "Mortis",
+        "rarity": "Hypercharge",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/73/Mortis_Skin-Lambent.png"
+    },
+
     "True Silver Mortis": {
+        "brawler": "Mortis",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Mortis_Skin-True_Silver.png"
+    },
+
+    "True Silver Hat Mortis": {
         "brawler": "Mortis",
         "rarity": "True Silver",
         "theme": "",
@@ -3330,6 +4707,13 @@
     },
 
     "True Gold Mortis": {
+        "brawler": "Mortis",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Mortis_Skin-True_Gold.png"
+    },
+
+    "True Gold Hat Mortis": {
         "brawler": "Mortis",
         "rarity": "True Gold",
         "theme": "",
@@ -3389,6 +4773,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/50/Tara_Skin-Tempest.png"
     },
 
+    "Shukuteki Tara": {
+        "brawler": "Tara",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Tara_Skin-Shukuteki.png"
+    },
+
     "True Silver Tara": {
         "brawler": "Tara",
         "rarity": "True Silver",
@@ -3414,6 +4805,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/54/Gene_Skin-Default.png"
     },
 
+    "Jungle Gene": {
+        "brawler": "Gene",
+        "rarity": "Rare",
+        "theme": "Sands of Time",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/16/Gene_Skin-Jungle.png"
+    },
+
     "Pirate Gene": {
         "brawler": "Gene",
         "rarity": "Super Rare",
@@ -3426,6 +4824,13 @@
         "rarity": "Super Rare",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1c/Gene_Skin-Swamp.png"
+    },
+
+    "Angel Gene": {
+        "brawler": "Gene",
+        "rarity": "Super Rare",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f4/Gene_Skin-Angel.png"
     },
 
     "Evil Gene": {
@@ -3509,6 +4914,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a2/Max_Skin-Cony.png"
     },
 
+    "Angel Max": {
+        "brawler": "Max",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/89/Max_Skin-Angel.png"
+    },
+
+    "World Championship Max": {
+        "brawler": "Max",
+        "rarity": "Epic",
+        "theme": "Brawl Stars Championship",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6d/Max_Skin-World_Championship.png"
+    },
+
     "True Silver Max": {
         "brawler": "Max",
         "rarity": "True Silver",
@@ -3537,8 +4956,8 @@
     "Agent P": {
         "brawler": "Mr. P",
         "rarity": "Rare",
-        "theme": "City Troubles",
-		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1b/Mr._P_Skin-Agent.png"
+        "theme": "License to Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Mr._P_Skin-Agent_P.png"
     },
 
     "Count Pengula": {
@@ -3560,6 +4979,13 @@
         "rarity": "Super Rare",
         "theme": "Golden Kawaii",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Mr._P_Skin-Daruma.png"
+    },
+
+    "Gym Rat Mr. P": {
+        "brawler": "Mr. P",
+        "rarity": "Super Rare",
+        "theme": "Gym Rats",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/94/Mr._P_Skin-Gym_Rat.png"
     },
 
     "Mr. Dragonfruit": {
@@ -3636,6 +5062,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/89/Sprout_Skin-Aquamarine.png"
     },
 
+    "Tanuki Sprout": {
+        "brawler": "Sprout",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Sprout_Skin-Tanuki.png"
+    },
+
     "True Silver Sprout": {
         "brawler": "Sprout",
         "rarity": "True Silver",
@@ -3689,6 +5122,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1a/Byron_Skin-Overlord.png"
     },
 
+    "Frank Byron": {
+        "brawler": "Byron",
+        "rarity": "Epic",
+        "theme": "Subway Surfers",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/75/Byron_Skin-Frank.png"
+    },
+
     "Ringmaster Byron": {
         "brawler": "Byron",
         "rarity": "Mythic",
@@ -3738,7 +5178,7 @@
     "Potato Squeak": {
         "brawler": "Squeak",
         "rarity": "Super Rare",
-        "theme": "Misc",
+        "theme": "Come Play With Us!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/df/Squeak_Skin-Potato.png"
     },
 
@@ -3761,6 +5201,20 @@
         "rarity": "Epic",
         "theme": "Brawl Academy",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Squeak_Skin-Nerd.png"
+    },
+
+    "Scarab Squeak": {
+        "brawler": "Squeak",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/80/Squeak_Skin-Scarab.png"
+    },
+
+    "Love Potion Squeak": {
+        "brawler": "Squeak",
+        "rarity": "Mythic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7c/Squeak_Skin-Love_Potion.png"
     },
 
     "True Silver Squeak": {
@@ -3786,6 +5240,13 @@
         "rarity": "Default",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Lou_Skin-Default.png"
+    },
+
+    "Bandito Lou": {
+        "brawler": "Lou",
+        "rarity": "Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Lou_Skin-Bandito.png"
     },
 
     "Smooth Lou": {
@@ -3816,6 +5277,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f5/Lou_Skin-King.png"
     },
 
+    "Rude Lou": {
+        "brawler": "Lou",
+        "rarity": "Mythic",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9c/Lou_Skin-Rude.png"
+    },
+
     "True Silver Lou": {
         "brawler": "Lou",
         "rarity": "True Silver",
@@ -3841,11 +5309,25 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ruffs_Skin-Default.png"
     },
 
+    "Sous Chef Ruffs": {
+        "brawler": "Ruffs",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Ruffs_Skin-Sous_Chef.png"
+    },
+
     "Marshal Ruffs": {
         "brawler": "Ruffs",
         "rarity": "Super Rare",
         "theme": "Outlaws",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ea/Ruffs_Skin-Marshal.png"
+    },
+
+    "Ruffesses II": {
+        "brawler": "Ruffs",
+        "rarity": "Super Rare",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Ruffs_Skin-Ruffesses_II.png"
     },
 
     "Ruffs Chimmy": {
@@ -3865,8 +5347,15 @@
     "Ronin Ruffs": {
         "brawler": "Ruffs",
         "rarity": "Epic",
-        "theme": "Lunar Brawl",
+        "theme": "StarrForce Assemble",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Ruffs_Skin-Ronin.png"
+    },
+
+    "Teen Ruffs": {
+        "brawler": "Ruffs",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/37/Ruffs_Skin-Teen.png"
     },
 
     "True Silver Ruffs": {
@@ -3950,6 +5439,27 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Buzz_Skin-M%C3%B8rk_Fenrir.png"
     },
 
+    "Buzz Patrick": {
+        "brawler": "Buzz",
+        "rarity": "Epic",
+        "theme": "SpongeBob",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0e/Buzz_Skin-Buzz_Patrick.png"
+    },
+
+    "Bye Bye Buzz": {
+        "brawler": "Buzz",
+        "rarity": "Epic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cb/Buzz_Skin-Bye_Bye.png"
+    },
+
+    "Fisherman Buzz": {
+        "brawler": "Buzz",
+        "rarity": "Epic",
+        "theme": "Clash Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Buzz_Skin-Fisherman.png"
+    },
+
     "Godzilla Buzz": {
         "brawler": "Buzz",
         "rarity": "Hypercharge",
@@ -3996,6 +5506,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Fang_Skin-Default.png"
     },
 
+    "First Mate Fang": {
+        "brawler": "Fang",
+        "rarity": "Rare",
+        "theme": "Outlaws",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f3/Fang_Skin-First_Mate.png"
+    },
+
     "Octo Fang": {
         "brawler": "Fang",
         "rarity": "Super Rare",
@@ -4038,6 +5555,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c7/Fang_Skin-Blue_Pitcher.png"
     },
 
+    "The Fans' Fang": {
+        "brawler": "Fang",
+        "rarity": "Epic",
+        "theme": "Brawl Stars Championship",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/69/Fang_Skin-The_Fans%27.png"
+    },
+
+    "Infernal Fang": {
+        "brawler": "Fang",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d7/Fang_Skin-Infernal.png"
+    },
+
     "Fanguard": {
         "brawler": "Fang",
         "rarity": "Mythic",
@@ -4070,6 +5601,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Eve_Skin-Default.png"
     },
 
+    "Cored Eve": {
+        "brawler": "Eve",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f7/Eve_Skin-Cored.png"
+    },
+
     "Baiku Eve": {
         "brawler": "Eve",
         "rarity": "Epic",
@@ -4089,6 +5627,13 @@
         "rarity": "Epic",
         "theme": "Biodome",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d0/Eve_Skin-Spiky.png"
+    },
+
+    "Extraterrestrial Eve": {
+        "brawler": "Eve",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6b/Eve_Skin-Extraterrestrial.png"
     },
 
     "True Silver Eve": {
@@ -4126,8 +5671,15 @@
     "Popstar Janet": {
         "brawler": "Janet",
         "rarity": "Super Rare",
-        "theme": "Vibing",
+        "theme": "THE GOOD RANDOMS",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/aa/Janet_Skin-Popstar.png"
+    },
+
+    "Jolly Janet": {
+        "brawler": "Janet",
+        "rarity": "Super Rare",
+        "theme": "Brawlidays",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fb/Janet_Skin-Jolly.png"
     },
 
     "Dark Fairy Janet": {
@@ -4142,6 +5694,20 @@
         "rarity": "Epic",
         "theme": "Northern Saga",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Janet_Skin-Valkyrie.png"
+    },
+
+    "Firewing Janet": {
+        "brawler": "Janet",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/85/Janet_Skin-Firewing.png"
+    },
+
+    "Tricky Janet": {
+        "brawler": "Janet",
+        "rarity": "Epic",
+        "theme": "Subway Surfers",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d0/Janet_Skin-Tricky.png"
     },
 
     "Lunar Janet": {
@@ -4176,6 +5742,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Otis_Skin-Default.png"
     },
 
+    "Rusty Otis": {
+        "brawler": "Otis",
+        "rarity": "Rare",
+        "theme": "Wasteland",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/34/Otis_Skin-Rusty.png"
+    },
+
     "Oni Otis": {
         "brawler": "Otis",
         "rarity": "Epic",
@@ -4193,8 +5766,15 @@
     "Pharaotis": {
         "brawler": "Otis",
         "rarity": "Epic",
-        "theme": "Sands of Time",
+        "theme": "Dark Sands",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/77/Otis_Skin-Pharaotis.png"
+    },
+
+    "Demon Otis": {
+        "brawler": "Otis",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Otis_Skin-Demon.png"
     },
 
     "True Silver Otis": {
@@ -4222,6 +5802,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Buster_Skin-Default.png"
     },
 
+    "Biker Buster": {
+        "brawler": "Buster",
+        "rarity": "Rare",
+        "theme": "City Troubles",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/00/Buster_Skin-Biker.png"
+    },
+
     "Crocodile Buster": {
         "brawler": "Buster",
         "rarity": "Epic",
@@ -4234,6 +5821,20 @@
         "rarity": "Epic",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/09/Buster_Skin-Chainsaw.png"
+    },
+
+    "Equilibrium Buster": {
+        "brawler": "Buster",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/34/Buster_Skin-Equilibrium.png"
+    },
+
+    "Blessed Buster": {
+        "brawler": "Buster",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a8/Buster_Skin-Blessed.png"
     },
 
     "True Silver Buster": {
@@ -4282,6 +5883,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/77/Gray_Skin-Detective_%28Noir_Edition%29.png"
     },
 
+    "Gigantophis Gray": {
+        "brawler": "Gray",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/10/Gray_Skin-Gigantophis.png"
+    },
+
+    "Wanderer Gray": {
+        "brawler": "Gray",
+        "rarity": "Epic",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/da/Gray_Skin-Wanderer.png"
+    },
+
     "True Silver Gray": {
         "brawler": "Gray",
         "rarity": "True Silver",
@@ -4328,6 +5943,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/df/R-T_Skin-Poseidon.png"
     },
 
+    "Gargoyle R-T": {
+        "brawler": "R-T",
+        "rarity": "Mythic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/R-T_Skin-Gargoyle.png"
+    },
+
     "True Silver R-T": {
         "brawler": "R-T",
         "rarity": "True Silver",
@@ -4365,6 +5987,20 @@
         "rarity": "Super Rare",
         "theme": "Wasteland",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/76/Willow_Skin-Scorpion.png"
+    },
+
+    "Demon Willow": {
+        "brawler": "Willow",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/70/Willow_Skin-Demon.png"
+    },
+
+    "Lunar Lotus Willow": {
+        "brawler": "Willow",
+        "rarity": "Epic",
+        "theme": "Lunar Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/50/Willow_Skin-Lunar_Lotus.png"
     },
 
     "True Silver Willow": {
@@ -4406,6 +6042,20 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Doug_Skin-Man-o-war.png"
     },
 
+    "Knight Doug": {
+        "brawler": "Doug",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/66/Doug_Skin-Knight.png"
+    },
+
+    "Dynasty Doug": {
+        "brawler": "Doug",
+        "rarity": "Mythic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/74/Doug_Skin-Dynasty.png"
+    },
+
     "True Silver Doug": {
         "brawler": "Doug",
         "rarity": "True Silver",
@@ -4436,6 +6086,13 @@
         "rarity": "Rare",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f2/Chuck_Skin-Inferno.png"
+    },
+
+    "Electroid Chuck": {
+        "brawler": "Chuck",
+        "rarity": "Epic",
+        "theme": "Brawl Unite",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Chuck_Skin-Electroid.png"
     },
 
     "Desert Scorpion Chuck": {
@@ -4484,6 +6141,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/65/Charlie_Skin-Rosie.png"
     },
 
+    "Workout Charlie": {
+        "brawler": "Charlie",
+        "rarity": "Epic",
+        "theme": "Gym Rats",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e5/Charlie_Skin-Workout.png"
+    },
+
     "Virus Charlie": {
         "brawler": "Charlie",
         "rarity": "Legendary",
@@ -4530,6 +6194,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Mico_Skin-Grouch.png"
     },
 
+    "Monstro Mico": {
+        "brawler": "Mico",
+        "rarity": "Epic",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2f/Mico_Skin-Monstro.png"
+    },
+
     "Wukong Mico": {
         "brawler": "Mico",
         "rarity": "Legendary",
@@ -4572,8 +6243,43 @@
     "Harpy Melodie": {
         "brawler": "Melodie",
         "rarity": "Epic",
-        "theme": "Legends of Olympus",
+        "theme": "Legends of Hades",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9c/Melodie_Skin-Harpy.png"
+    },
+
+    "Pump It Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "Gym Rats",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3c/Melodie_Skin-Pump_It.png"
+    },
+
+    "Inflatable Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "April Fool's",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/77/Melodie_Skin-Inflatable.png"
+    },
+
+    "Pop Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Melodie_Skin-Pop.png"
+    },
+
+    "Blackgreen Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Melodie_Skin-Blackgreen.png"
+    },
+
+    "Redwhite Melodie": {
+        "brawler": "Melodie",
+        "rarity": "Epic",
+        "theme": "THE GOOD RANDOMS",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7d/Melodie_Skin-Redwhite.png"
     },
 
     "True Silver Melodie": {
@@ -4608,6 +6314,41 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Lily_Skin-Strawberry.png"
     },
 
+    "Angel Lily": {
+        "brawler": "Lily",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/ca/Lily_Skin-Angel.png"
+    },
+
+    "Sandstalker Lily": {
+        "brawler": "Lily",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8f/Lily_Skin-Sandstalker.png"
+    },
+
+    "Sandwalker Lily": {
+        "brawler": "Lily",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1a/Lily_Skin-Sandwalker.png"
+    },
+
+    "Night Sands Lily": {
+        "brawler": "Lily",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a5/Lily_Skin-Night_Sands.png"
+    },
+
+    "Knight Lily": {
+        "brawler": "Lily",
+        "rarity": "Mythic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/dc/Lily_Skin-Knight.png"
+    },
+
     "True Silver Lily": {
         "brawler": "Lily",
         "rarity": "True Silver",
@@ -4636,8 +6377,532 @@
     "High Stakes Clancy": {
         "brawler": "Clancy",
         "rarity": "Rare",
-        "theme": "Misc",
+        "theme": "City Troubles",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b0/Clancy_Skin-High_Stakes.png"
+    },
+
+    "Kaiju Clancy": {
+        "brawler": "Clancy",
+        "rarity": "Super Rare",
+        "theme": "Kaiju Invasion",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4b/Clancy_Skin-Kaiju.png"
+    },
+
+    "True Silver Clancy": {
+        "brawler": "Clancy",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2d/Clancy_Skin-True_Silver.png"
+    },
+
+    "True Gold Clancy": {
+        "brawler": "Clancy",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/56/Clancy_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Moe": {
+        "brawler": "Moe",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Moe_Skin-Default.png"
+    },
+
+    "Monterey Moe": {
+        "brawler": "Moe",
+        "rarity": "Rare",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Moe_Skin-Monterey.png"
+    },
+
+    "Moon Driller Moe": {
+        "brawler": "Moe",
+        "rarity": "Epic",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bd/Moe_Skin-Moon_Driller.png"
+    },
+
+    "True Silver Moe": {
+        "brawler": "Moe",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f2/Moe_Skin-True_Silver.png"
+    },
+
+    "True Gold Moe": {
+        "brawler": "Moe",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a8/Moe_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Juju": {
+        "brawler": "Juju",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Juju_Skin-Default.png"
+    },
+
+    "Unlucky Juju": {
+        "brawler": "Juju",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/47/Juju_Skin-Unlucky.png"
+    },
+
+    "Queen Juju": {
+        "brawler": "Juju",
+        "rarity": "Super Rare",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/ba/Juju_Skin-Queen.png"
+    },
+
+    "True Silver Juju": {
+        "brawler": "Juju",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Juju_Skin-True_Silver.png"
+    },
+
+    "True Gold Juju": {
+        "brawler": "Juju",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/de/Juju_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Ollie": {
+        "brawler": "Ollie",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Ollie_Skin-Default.png"
+    },
+
+    "Ollie-G": {
+        "brawler": "Ollie",
+        "rarity": "Rare",
+        "theme": "City Troubles",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Ollie_Skin-Ollie-G.png"
+    },
+
+    "Pharaollie": {
+        "brawler": "Ollie",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4a/Ollie_Skin-Pharaollie.png"
+    },
+
+    "Jake Ollie": {
+        "brawler": "Ollie",
+        "rarity": "Epic",
+        "theme": "Subway Surfers",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Ollie_Skin-Jake.png"
+    },
+
+    "True Silver Ollie": {
+        "brawler": "Ollie",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/83/Ollie_Skin-True_Silver.png"
+    },
+
+    "True Gold Ollie": {
+        "brawler": "Ollie",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ad/Ollie_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Finx": {
+        "brawler": "Finx",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/31/Finx_Skin-Default.png"
+    },
+
+    "Jurassic Finx": {
+        "brawler": "Finx",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Finx_Skin-Jurassic.png"
+    },
+
+    "Mecha Finx": {
+        "brawler": "Finx",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/51/Finx_Skin-Mecha.png"
+    },
+
+    "Mecha Chief Finx": {
+        "brawler": "Finx",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6c/Finx_Skin-Mecha_Chief.png"
+    },
+
+    "Crimson Tyfinx": {
+        "brawler": "Finx",
+        "rarity": "Legendary",
+        "theme": "Mecha Squad",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/99/Finx_Skin-Crimson_Tyfinx.png"
+    },
+
+    "True Silver Finx": {
+        "brawler": "Finx",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/5b/Finx_Skin-True_Silver.png"
+    },
+
+    "True Gold Finx": {
+        "brawler": "Finx",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4c/Finx_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Lumi_Skin-Default.png"
+    },
+
+    "Dark Knight Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Rare",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7b/Lumi_Skin-Dark_Knight.png"
+    },
+
+    "Persephone Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Super Rare",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/02/Lumi_Skin-Persephone.png"
+    },
+
+    "Eleven Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ab/Lumi_Skin-Eleven.png"
+    },
+
+    "Retro Eleven Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/18/Lumi_Skin-Retro_Eleven.png"
+    },
+
+    "Thrilled Eleven Lumi": {
+        "brawler": "Lumi",
+        "rarity": "Epic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Lumi_Skin-Thrilled_Eleven.png"
+    },
+
+    "True Silver Lumi": {
+        "brawler": "Lumi",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Lumi_Skin-True_Silver.png"
+    },
+
+    "True Gold Lumi": {
+        "brawler": "Lumi",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fd/Lumi_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Jae-yong": {
+        "brawler": "Jae-yong",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3f/Jae-yong_Skin-Default.png"
+    },
+
+    "Jammin' Jae": {
+        "brawler": "Jae-yong",
+        "rarity": "Rare",
+        "theme": "Vibing",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3b/Jae-yong_Skin-Jammin%27_Jae.png"
+    },
+
+    "True Silver Jae-yong": {
+        "brawler": "Jae-yong",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6e/Jae-yong_Skin-True_Silver.png"
+    },
+
+    "True Gold Jae-yong": {
+        "brawler": "Jae-yong",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Jae-yong_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Alli": {
+        "brawler": "Alli",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Alli_Skin-Default.png"
+    },
+
+    "Hunter-Gatherer Alli": {
+        "brawler": "Alli",
+        "rarity": "Rare",
+        "theme": "Skull Cave Clan",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Alli_Skin-Hunter-Gatherer.png"
+    },
+
+    "Graffiti Alli": {
+        "brawler": "Alli",
+        "rarity": "Rare",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a8/Alli_Skin-Graffiti.png"
+    },
+
+    "Baddie Alli": {
+        "brawler": "Alli",
+        "rarity": "Epic",
+        "theme": "My Brawlentine",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Alli_Skin-Baddie.png"
+    },
+
+    "True Silver Alli": {
+        "brawler": "Alli",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e9/Alli_Skin-True_Silver.png"
+    },
+
+    "True Gold Alli": {
+        "brawler": "Alli",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Alli_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Mina": {
+        "brawler": "Mina",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6d/Mina_Skin-Default.png"
+    },
+
+    "Graffiti Mina": {
+        "brawler": "Mina",
+        "rarity": "Rare",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/30/Mina_Skin-Graffiti.png"
+    },
+
+    "Beatchaser Mina": {
+        "brawler": "Mina",
+        "rarity": "Mythic",
+        "theme": "Vibing",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8c/Mina_Skin-Beatchaser.png"
+    },
+
+    "High Scorer Mina": {
+        "brawler": "Mina",
+        "rarity": "Mythic",
+        "theme": "Vibing",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/05/Mina_Skin-High_Scorer.png"
+    },
+
+    "Dance Dance Mina": {
+        "brawler": "Mina",
+        "rarity": "Mythic",
+        "theme": "Vibing",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3b/Mina_Skin-Dance_Dance.png"
+    },
+
+    "True Silver Mina": {
+        "brawler": "Mina",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9e/Mina_Skin-True_Silver.png"
+    },
+
+    "True Gold Mina": {
+        "brawler": "Mina",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Mina_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4f/Ziggy_Skin-Default.png"
+    },
+
+    "Warlock Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "Mythic",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4c/Ziggy_Skin-Warlock.png"
+    },
+
+    "Zap It Up Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "Mythic",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/11/Ziggy_Skin-Zap_It_Up.png"
+    },
+
+    "Dark Wizard Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "Mythic",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Ziggy_Skin-Dark_Wizard.png"
+    },
+
+    "True Silver Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/61/Ziggy_Skin-True_Silver.png"
+    },
+
+    "True Gold Ziggy": {
+        "brawler": "Ziggy",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d7/Ziggy_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Gigi": {
+        "brawler": "Gigi",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/52/Gigi_Skin-Default.png"
+    },
+
+    "Scarecrow Gigi": {
+        "brawler": "Gigi",
+        "rarity": "Mythic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/57/Gigi_Skin-Scarecrow.png"
+    },
+
+    "Autumn Scarecrow Gigi": {
+        "brawler": "Gigi",
+        "rarity": "Mythic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/57/Gigi_Skin-Autumn_Scarecrow.png"
+    },
+
+    "Winter Scarecrow Gigi": {
+        "brawler": "Gigi",
+        "rarity": "Mythic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/dd/Gigi_Skin-Winter_Scarecrow.png"
+    },
+
+    "True Silver Gigi": {
+        "brawler": "Gigi",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/9c/Gigi_Skin-True_Silver.png"
+    },
+
+    "True Gold Gigi": {
+        "brawler": "Gigi",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Gigi_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Glowy": {
+        "brawler": "Glowy",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cd/Glowy_Skin-Default.png"
+    },
+
+    "Ywolg": {
+        "brawler": "Glowy",
+        "rarity": "Mythic",
+        "theme": "April Fool's",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/44/Glowy_Skin-Ywolg.png"
+    },
+
+    "True Silver Glowy": {
+        "brawler": "Glowy",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d0/Glowy_Skin-True_Silver.png"
+    },
+
+    "True Gold Glowy": {
+        "brawler": "Glowy",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/c5/Glowy_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Najia": {
+        "brawler": "Najia",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/91/Najia_Skin-Default.png"
     },
 	
 	
@@ -4689,14 +6954,21 @@
     "Dark Lord Spike": {
         "brawler": "Spike",
         "rarity": "Epic",
-        "theme": "Lunar Brawl",
+        "theme": "StarrForce Assemble",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Spike_Skin-Dark_Lord.png"
+    },
+
+    "Carreta Spike": {
+        "brawler": "Spike",
+        "rarity": "Epic",
+        "theme": "Carreta",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/56/Spike_Skin-Carreta.png"
     },
 
     "Poop Spike": {
         "brawler": "Spike",
         "rarity": "Mythic",
-        "theme": "April Fool",
+        "theme": "April Fool's",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/be/Spike_Skin-Poop.png"
     },
 
@@ -4732,6 +7004,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a2/Crow_Skin-Default.png"
     },
 
+    "Maverick Crow": {
+        "brawler": "Crow",
+        "rarity": "Rare",
+        "theme": "Freedom!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/87/Crow_Skin-Maverick.png"
+    },
+
     "White Crow": {
         "brawler": "Crow",
         "rarity": "Super Rare",
@@ -4751,6 +7030,34 @@
         "rarity": "Epic",
         "theme": "The Calamity Gang",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Crow_Skin-Crowbone.png"
+    },
+
+    "Plague Doctor Crow": {
+        "brawler": "Crow",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Crow_Skin-Plague_Doctor.png"
+    },
+
+    "Old Hunter Crow": {
+        "brawler": "Crow",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Crow_Skin-Old_Hunter.png"
+    },
+
+    "Death's Door Crow": {
+        "brawler": "Crow",
+        "rarity": "Epic",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Crow_Skin-Death%27s_Door.png"
+    },
+
+    "Moon Guardian Crow": {
+        "brawler": "Crow",
+        "rarity": "Mythic",
+        "theme": "Lunar Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/ff/Crow_Skin-Moon_Guardian.png"
     },
 
     "Phoenix Crow": {
@@ -4794,6 +7101,41 @@
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fa/Crow_Skin-True_Gold.png"
     },
+
+    "Dragon Crow": {
+        "brawler": "Crow",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Crow_Skin-Dragon.png"
+    },
+
+    "Dragon IV Crow": {
+        "brawler": "Crow",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2a/Crow_Skin-Dragon_IV.png"
+    },
+
+    "Dragonkin Crow": {
+        "brawler": "Crow",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2a/Crow_Skin-Dragonkin.png"
+    },
+
+    "Dragonforged Crow": {
+        "brawler": "Crow",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/39/Crow_Skin-Dragonforged.png"
+    },
+
+    "Ghost Dragon Crow": {
+        "brawler": "Crow",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fa/Crow_Skin-Ghost_Dragon.png"
+    },
 	
 	
 	
@@ -4811,6 +7153,13 @@
         "rarity": "Rare",
         "theme": "Animal Kingdom",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/bc/Leon_Skin-Leon_the_Stray.png"
+    },
+
+    "Graffiti Leon": {
+        "brawler": "Leon",
+        "rarity": "Rare",
+        "theme": "Streetwear",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3d/Leon_Skin-Graffiti.png"
     },
 
     "Shark Leon": {
@@ -4846,6 +7195,13 @@
         "rarity": "Epic",
         "theme": "Brawl-o-ween",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Leon_Skin-Werewolf.png"
+    },
+
+    "World Finals Leon": {
+        "brawler": "Leon",
+        "rarity": "Epic",
+        "theme": "Brawl Stars Championship",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Leon_Skin-World_Finals.png"
     },
 
     "White Wolf Leon": {
@@ -4888,6 +7244,41 @@
         "rarity": "True Gold",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Leon_Skin-True_Gold.png"
+    },
+
+    "Tiger Leon": {
+        "brawler": "Leon",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a5/Leon_Skin-Tiger.png"
+    },
+
+    "Tiger IV Leon": {
+        "brawler": "Leon",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3a/Leon_Skin-Tiger_IV.png"
+    },
+
+    "Shadow Tiger Leon": {
+        "brawler": "Leon",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/98/Leon_Skin-Shadow_Tiger.png"
+    },
+
+    "White Tiger Leon": {
+        "brawler": "Leon",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Leon_Skin-White_Tiger.png"
+    },
+
+    "Stalking Tiger Leon": {
+        "brawler": "Leon",
+        "rarity": "",
+        "theme": "Pro Pass",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Leon_Skin-Stalking_Tiger.png"
     },
 	
 	
@@ -4957,6 +7348,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/36/Sandy_Skin-Glowing_Jellyfish.png"
     },
 
+    "Hypnos Sandy": {
+        "brawler": "Sandy",
+        "rarity": "Legendary",
+        "theme": "Legends of Hades",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3d/Sandy_Skin-Hypnos.png"
+    },
+
     "True Silver Sandy": {
         "brawler": "Sandy",
         "rarity": "True Silver",
@@ -4982,6 +7380,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Amber_Skin-Default.png"
     },
 
+    "Fiendish Amber": {
+        "brawler": "Amber",
+        "rarity": "Rare",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/94/Amber_Skin-Fiendish.png"
+    },
+
     "Amber de la Vega": {
         "brawler": "Amber",
         "rarity": "Epic",
@@ -4994,6 +7399,13 @@
         "rarity": "Epic",
         "theme": "Summer of Brawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Amber_Skin-Bubble_Trouble.png"
+    },
+
+    "Knight Amber": {
+        "brawler": "Amber",
+        "rarity": "Epic",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3b/Amber_Skin-Knight.png"
     },
 
     "Frost Queen Amber": {
@@ -5028,6 +7440,13 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Meg_Skin-Default.png"
     },
 
+    "Whisked Meg": {
+        "brawler": "Meg",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fd/Meg_Skin-Whisked.png"
+    },
+
     "Beetle Meg": {
         "brawler": "Meg",
         "rarity": "Super Rare",
@@ -5047,6 +7466,13 @@
         "rarity": "Epic",
         "theme": "Rumble Jungle Heroes",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8d/Meg_Skin-Jaguar_Spirit.png"
+    },
+
+    "Martyr Meg": {
+        "brawler": "Meg",
+        "rarity": "Epic",
+        "theme": "Angels vs. Demons",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/ca/Meg_Skin-Martyr.png"
     },
 
     "Megalodon Meg": {
@@ -5081,10 +7507,17 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Surge_Skin-Default.png"
     },
 
+    "Secret Surgevice": {
+        "brawler": "Surge",
+        "rarity": "Rare",
+        "theme": "License to Brawl",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Surge_Skin-Secret_Surgevice.png"
+    },
+
     "DIY Surge": {
         "brawler": "Surge",
         "rarity": "Super Rare",
-        "theme": "Misc",
+        "theme": "Come Play With Us!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Surge_Skin-DIY.png"
     },
 
@@ -5121,6 +7554,41 @@
         "rarity": "Epic",
         "theme": "Max Force",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b3/Surge_Skin-Scarlet_Paladin.png"
+    },
+
+    "Skeletal Surge": {
+        "brawler": "Surge",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/77/Surge_Skin-Skeletal.png"
+    },
+
+    "Villainous Skeletal Surge": {
+        "brawler": "Surge",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d1/Surge_Skin-Villainous_Skeletal.png"
+    },
+
+    "Anti-Hero Skeletal Surge": {
+        "brawler": "Surge",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/1c/Surge_Skin-Anti-Hero_Skeletal.png"
+    },
+
+    "Surge Lightyear": {
+        "brawler": "Surge",
+        "rarity": "Legendary",
+        "theme": "Toy Story",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/c/ce/Surge_Skin-Surge_Lightyear.png"
+    },
+
+    "Porcelain Surge": {
+        "brawler": "Surge",
+        "rarity": "Legendary",
+        "theme": "Lunar Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Surge_Skin-Porcelain.png"
     },
 
     "True Silver Surge": {
@@ -5167,6 +7635,27 @@
         "rarity": "Epic",
         "theme": "Northern Saga",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d8/Chester_Skin-Loki.png"
+    },
+
+    "Moon Guardian Chester": {
+        "brawler": "Chester",
+        "rarity": "Epic",
+        "theme": "Lunar Stories",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/99/Chester_Skin-Moon_Guardian.png"
+    },
+
+    "Uno Chester": {
+        "brawler": "Chester",
+        "rarity": "Epic",
+        "theme": "Uno",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e9/Chester_Skin-Uno.png"
+    },
+
+    "Prankster Chester": {
+        "brawler": "Chester",
+        "rarity": "Epic",
+        "theme": "Brawl Academy",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Chester_Skin-Prankster.png"
     },
 
     "True Silver Chester": {
@@ -5222,6 +7711,34 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8f/Cordelius_Skin-Sporemind.png"
     },
 
+    "Sultan Cordelius": {
+        "brawler": "Cordelius",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Cordelius_Skin-Sultan.png"
+    },
+
+    "Cooled Sultan Cordelius": {
+        "brawler": "Cordelius",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/72/Cordelius_Skin-Cooled_Sultan.png"
+    },
+
+    "Heated Sultan Cordelius": {
+        "brawler": "Cordelius",
+        "rarity": "Epic",
+        "theme": "Dark Sands",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Cordelius_Skin-Heated_Sultan.png"
+    },
+
+    "Paper Cordelius": {
+        "brawler": "Cordelius",
+        "rarity": "Legendary",
+        "theme": "Cartoon Studios",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b4/Cordelius_Skin-Paper.png"
+    },
+
     "True Silver Cordelius": {
         "brawler": "Cordelius",
         "rarity": "True Silver",
@@ -5254,6 +7771,55 @@
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Kit_Skin-Billy_the.png"
     },
 
+    "Yuki Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Kit_Skin-Yuki.png"
+    },
+
+    "Siamese Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Kit_Skin-Siamese.png"
+    },
+
+    "Calico Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Kit_Skin-Calico.png"
+    },
+
+    "Tabby Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ef/Kit_Skin-Tabby.png"
+    },
+
+    "Mariano Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Kit_Skin-Mariano.png"
+    },
+
+    "Guismo Kit": {
+        "brawler": "Kit",
+        "rarity": "Rare",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/8/8f/Kit_Skin-Guismo.png"
+    },
+
+    "Cuddly Kit": {
+        "brawler": "Kit",
+        "rarity": "Super Rare",
+        "theme": "Come Play With Us!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/35/Kit_Skin-Cuddly.png"
+    },
+
     "KitBoxer": {
         "brawler": "Kit",
         "rarity": "Epic",
@@ -5273,6 +7839,13 @@
         "rarity": "Epic",
         "theme": "Lunar Brawl",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/2c/Kit_Skin-KitBoxer_Goldpaw.png"
+    },
+
+    "LockpicKit Goldpaw": {
+        "brawler": "Kit",
+        "rarity": "Epic",
+        "theme": "Once Upon",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/14/Kit_Skin-LockpicKit.png"
     },
 
     "True Silver Kit": {
@@ -5303,8 +7876,22 @@
     "Dark Knight Draco": {
         "brawler": "Draco",
         "rarity": "Rare",
-        "theme": "Once Upon",
+        "theme": "Knights!",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Draco_Skin-Dark_Knight.png"
+    },
+
+    "Eddie Draco": {
+        "brawler": "Draco",
+        "rarity": "Mythic",
+        "theme": "Stranger Things",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/72/Draco_Skin-Eddie.png"
+    },
+
+    "Dread Knight Draco": {
+        "brawler": "Draco",
+        "rarity": "Legendary",
+        "theme": "Knights!",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/32/Draco_Skin-Dread_Knight.png"
     },
 
     "True Silver Draco": {
@@ -5319,6 +7906,183 @@
         "rarity": "True Gold",
         "theme": "",
 		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ab/Draco_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Kenji_Skin-Default.png"
+    },
+
+    "Fruit Samurai Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/3/31/Kenji_Skin-Fruit_Samurai.png"
+    },
+
+    "Hebi Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Kenji_Skin-Hebi.png"
+    },
+
+    "Mamushi Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/da/Kenji_Skin-Mamushi.png"
+    },
+
+    "Aodaisho Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Epic",
+        "theme": "StarrForce Assemble",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Kenji_Skin-Aodaisho.png"
+    },
+
+    "Cursed Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Legendary",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4e/Kenji_Skin-Cursed.png"
+    },
+
+    "Oni Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Legendary",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Kenji_Skin-Oni.png"
+    },
+
+    "Kizu Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Hypercharge",
+        "theme": "Brawl-o-ween",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Kenji_Skin-Kizu.png"
+    },
+
+    "Manga Kenji": {
+        "brawler": "Kenji",
+        "rarity": "Hypercharge",
+        "theme": "Battle for Katana Kingdom",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Kenji_Skin-Manga.png"
+    },
+
+    "True Silver Kenji": {
+        "brawler": "Kenji",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/91/Kenji_Skin-True_Silver.png"
+    },
+
+    "True Gold Kenji": {
+        "brawler": "Kenji",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ae/Kenji_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Pierce": {
+        "brawler": "Pierce",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Pierce_Skin-Default.png"
+    },
+
+    "Pierce Vampire Hunter": {
+        "brawler": "Pierce",
+        "rarity": "Mythic",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/f5/Pierce_Skin-Pierce_Vampire_Hunter.png"
+    },
+
+    "Edgy Pierce": {
+        "brawler": "Pierce",
+        "rarity": "Mythic",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/b/b6/Pierce_Skin-Edgy.png"
+    },
+
+    "High Stakes Pierce": {
+        "brawler": "Pierce",
+        "rarity": "Mythic",
+        "theme": "Misc",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/ad/Pierce_Skin-High_Stakes.png"
+    },
+
+    "True Silver Pierce": {
+        "brawler": "Pierce",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/9/92/Pierce_Skin-True_Silver.png"
+    },
+
+    "True Gold Pierce": {
+        "brawler": "Pierce",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Pierce_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Kaze": {
+        "brawler": "Kaze",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Kaze_Skin-Default.png"
+    },
+
+    "Fruity Kaze": {
+        "brawler": "Kaze",
+        "rarity": "Rare",
+        "theme": "Starry Meal",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/2/29/Kaze_Skin-Fruity.png"
+    },
+
+    "Clockwork Kaze": {
+        "brawler": "Kaze",
+        "rarity": "Legendary",
+        "theme": "Steampunk",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/19/Kaze_Skin-Clockwork.png"
+    },
+
+    "True Silver Kaze": {
+        "brawler": "Kaze",
+        "rarity": "True Silver",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/1/16/Kaze_Skin-True_Silver.png"
+    },
+
+    "True Gold Kaze": {
+        "brawler": "Kaze",
+        "rarity": "True Gold",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/f/fa/Kaze_Skin-True_Gold.png"
+    },
+	
+	
+	
+	
+	
+	"Default Sirius": {
+        "brawler": "Sirius",
+        "rarity": "Default",
+        "theme": "",
+		"img": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Sirius_Skin-Default.png"
     }
 	
 }

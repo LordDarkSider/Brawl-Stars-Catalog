@@ -224,6 +224,21 @@
         "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Berry_Portrait.png"
     },
 
+    "Shade": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Shade_Portrait.png"
+    },
+
+    "Meeple": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/ff/Meeple_Portrait.png"
+    },
+
+    "Trunk": {
+        "rarity": "epic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/af/Trunk_Portrait.png"
+    },
+
     "Mortis": {
         "rarity": "mythic",
         "img": "https://static.wikia.nocookie.net/brawlstars/images/b/b4/Mortis_Portrait.png"
@@ -354,6 +369,66 @@
         "img": "https://static.wikia.nocookie.net/brawlstars/images/f/f0/Clancy_Portrait.png"
     },
 
+    "Moe": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/98/Moe_Portrait.png"
+    },
+
+    "Juju": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Juju_Portrait.png"
+    },
+
+    "Ollie": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Ollie_Portrait.png"
+    },
+
+    "Finx": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/57/Finx_Portrait.png"
+    },
+
+    "Lumi": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/9/97/Lumi_Portrait.png"
+    },
+
+    "Jae-yong": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Jae-yong_Portrait.png"
+    },
+
+    "Alli": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Alli_Portrait.png"
+    },
+
+    "Mina": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/5/54/Mina_Portrait.png"
+    },
+
+    "Ziggy": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Ziggy_Portrait.png"
+    },
+
+    "Gigi": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/7/75/Gigi_Portrait.png"
+    },
+
+    "Glowy": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/e/e7/Glowy_Portrait.png"
+    },
+
+    "Najia": {
+        "rarity": "mythic",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/d/de/Najia_Portrait.png"
+    },
+
     "Spike": {
         "rarity": "legendary",
         "img": "https://static.wikia.nocookie.net/brawlstars/images/2/22/Spike_Portrait.png"
@@ -407,5 +482,25 @@
     "Draco": {
         "rarity": "legendary",
         "img": "https://static.wikia.nocookie.net/brawlstars/images/c/c2/Draco_Portrait.png"
+    },
+
+    "Kenji": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/bb/Kenji_Portrait.png"
+    },
+
+    "Pierce": {
+        "rarity": "legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/d/d8/Pierce_Portrait.png"
+    },
+
+    "Kaze": {
+        "rarity": "ultra-legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/b/ba/Kaze_Portrait.png"
+    },
+
+    "Sirius": {
+        "rarity": "ultra-legendary",
+        "img": "https://static.wikia.nocookie.net/brawlstars/images/4/42/Sirius_Portrait.png"
     }
 }

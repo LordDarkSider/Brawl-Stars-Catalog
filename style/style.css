@@ -143,6 +143,11 @@ fieldset legend {
 .field-Bepic{border-color: #7f00ff;}
 .field-Bmythic{border-color: #ff0000;}
 .field-Blegendary{border-color: #ff8000;}
+.field-Bultra-legendary{border-color: #ffff00;}
+.field-Bultra-legendary{
+    border-image: linear-gradient(to right,#8a8a8a 0%,#00ff00 16.67%,#0000cc 33.33%,#7f00ff 50.00%,#ff0000 66.67%,#ff8000 83.33%,#ffff00 100%);
+    border-image-slice: 1;
+}
 
 .skin{
     display: inline-block;

@@ -1,6 +1,10 @@
 {
 	
-    "Animal Kingdom": {
+    "Angels vs. Demons": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/c/c0/Campaign_Icon-Angels_vs._Demons.png"
+    },
+	
+	"Animal Kingdom": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Campaign_Icon-Animal_Kingdom.png"
     },
 	
@@ -8,12 +12,16 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Campaign_Icon-2019_Anniversary.png"
     },
 	
-	"April Fool": {
+	"April Fool's": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/1/1b/Campaign_Icon-April_Fool%27s.png"
     },
 	
 	"Baby Shark": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Campaign_Icon-Baby_Shark.png"
+    },
+	
+	"Battle for Katana Kingdom": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Campaign_Icon-Battle_for_Katana_Kingdom.png"
     },
 	
 	"Biodome": {
@@ -40,10 +48,6 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/1/10/Campaign_Icon-BSC_2020.png"
     },
 	
-    "Brawl Stars Pioneer": {
-        "icon": "https://static.wikia.nocookie.net/brawlstars/images/c/c3/Campaign_Icon-Brawl_Stars_Pioneer.png"
-    },
-	
 	"Brawl-o-ween": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/8/85/Campaign_Icon-Brawl-o-ween.png"
     },
@@ -54,6 +58,10 @@
 	
     "Brawlnaval": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Campaign_Icon-Brawlnaval.png"
+    },
+	
+    "Brawl Unite": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/1/18/Campaign_Icon-Brawl_Unite.png"
     },
 	
     "Brown & Friends": {
@@ -68,6 +76,10 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/5/51/Campaign_Icon-Bunny_Brigade.png"
     },
 	
+    "Carreta": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/f9/Campaign_Icon-Carreta.png"
+    },
+	
     "Cartoon Studios": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/7/7d/Campaign_Icon-Cartoon_Studios.png"
     },
@@ -80,12 +92,20 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/6/61/Campaign_Icon-Clash_Stories.png"
     },
 	
+    "Come Play With Us!": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/fa/Campaign_Icon-Come_Play_With_Us%21.png"
+    },
+	
     "Cursed Pirates": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/8/89/Campaign_Icon-Cursed_Pirates.png"
     },
 	
     "Cyberbrawl": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/5/5c/Campaign_Icon-CyberBrawl.png"
+    },
+	
+    "Dark Sands": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/e1/Campaign_Icon-Dark_Sands.png"
     },
 	
     "Dark Winter Tales": {
@@ -102,6 +122,10 @@
 	
     "Flaming": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Campaign_Icon-Flaming.png"
+    },
+	
+    "Freedom!": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/c/c5/Campaign_Icon-Freedom%21.png"
     },
 	
     "Gaming": {
@@ -124,8 +148,24 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/d/d5/Campaign_Icon-Golden_Kawaii.png"
     },
 	
+    "Gym Rats": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/8/8d/Campaign_Icon-Gym_Rats.png"
+    },
+	
+    "Kaiju Invasion": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/8/86/Campaign_Icon-Kaiju_Invasion.png"
+    },
+	
+    "Knights!": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/9/93/Campaign_Icon-Knights%21.png"
+    },
+	
     "Latin America Master League": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Campaign_Icon-Latin_America_Master_League.png"
+    },
+	
+    "Legends of Hades": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/c/c8/Campaign_Icon-Legends_of_Hades.png"
     },
 	
     "Legends of Olympus": {
@@ -168,6 +208,10 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/e5/Campaign_Icon-Outlaws.png"
     },
 	
+    "Pro Pass": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/7/7a/Campaign_Icon-Pro_Pass.png"
+    },
+	
     "PSG": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/fc/Campaign_Icon-PSG.png"
     },
@@ -195,9 +239,17 @@
     "Skull Cave Clan": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/7/7b/Campaign_Icon-Skull_Cave_Clan.png"
     },
+
+    "SpongeBob": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/f8/Campaign_Icon-SpongeBob.png"
+    },
 	
     "Squad Busters": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/0/0a/Campaign_Icon-Squad_Busters.png"
+    },
+	
+    "StarrForce Assemble": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Campaign_Icon-StarrForce_Assemble.png"
     },
 	
     "Starr Park Origins": {
@@ -212,8 +264,24 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/4/4e/Campaign_Icon-Starry_Meal.png"
     },
 	
+    "Steampunk": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/c/cc/Campaign_Icon-Steampunk.png"
+    },
+	
+    "Stranger Things": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/a/ae/Campaign_Icon-Stranger_Things.png"
+    },
+	
+    "Streetwear": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/4/4a/Campaign_Icon-Streetwear.png"
+    },
+	
     "Stunt Show": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/7/7e/Campaign_Icon-Stunt_Show.png"
+    },
+	
+    "Subway Surfers": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Campaign_Icon-Subway_Surfers.png"
     },
 	
     "Sugar Rush": {
@@ -248,6 +316,10 @@
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Campaign_Icon-The_Calamity_Gang.png"
     },
 	
+    "THE GOOD RANDOMS": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/e/ec/Campaign_Icon-THE_GOOD_RANDOMS.png"
+    },
+	
     "The Mega": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/3/3c/Campaign_Icon-The_Mega.png"
     },
@@ -262,6 +334,14 @@
 	
     "The Worst Bunch": {
         "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/f7/Campaign_Icon-The_Worst_Bunch.png"
+    },
+	
+    "Toy Story": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/6/6b/Campaign_Icon-Toy_Story.png"
+    },
+	
+    "Uno": {
+        "icon": "https://static.wikia.nocookie.net/brawlstars/images/f/f5/Campaign_Icon-Uno.png"
     },
 	
     "Vibing": {
